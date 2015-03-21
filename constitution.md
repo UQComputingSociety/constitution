@@ -214,7 +214,7 @@
 
 1. Quorum at General Meeting
 
-    1. At any general meeting the number of members required to constitute a quorum shall be 15% of the membership plus one (1).
+    1. At any general meeting the number of members required to constitute a quorum shall be 15% of the membership plus one (1) OR a majority of 75% of the management committee plus 10 members not elected and/or appointed to the management committee.
 
 1. Notice of General Meeting
 
