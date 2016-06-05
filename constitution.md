@@ -72,7 +72,7 @@
 
 1. Register of Members
 
-    1. The management committee shall cause a register to be kept in which shall be entered the names, student number and residential addresses of all persons admitted to membership of the Club/Society and the dates of their admission.
+    1. The management committee shall cause a register to be kept in which shall be entered the names and student number (if a student) of all persons admitted to membership of the Club/Society and the dates of their admission.
 
     2. Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the management committee or the members at any general meeting may require from time to time.
 
