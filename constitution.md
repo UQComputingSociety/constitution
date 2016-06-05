@@ -30,6 +30,10 @@
 
        The Club/Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
+## INTERPRETATION
+1. In this Constitution, unless the contrary intention appears:
+
+    1. “Semester” refers to Semester 1 or 2 as prescribed by the University's Academic Calendar
 
 ## MEMBERSHIP
 1. Membership is open to:
