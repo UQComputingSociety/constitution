@@ -218,7 +218,7 @@
 
 1. Notice of General Meeting
 
-    1. The secretary shall convene at least two general meetings per semester of the Club/Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Club/Society.
+    1. The secretary shall convene at least one general meeting per semester of the Club/Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Club/Society.
 
     2. The manner by which such notice shall be given shall be determined by the management committee.
 
