@@ -2,9 +2,9 @@
 
 **Constitution - Affiliated Bodies**
 
-**Version 1.1**
+**Version 1.2**
 
-**17 October 2012**
+**2 June 2016**
 
 
 ## NAME
@@ -30,6 +30,10 @@
 
        The Club/Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
+## INTERPRETATION
+1. In this Constitution, unless the contrary intention appears:
+
+    1. “Semester” refers to Semester 1 or 2 as prescribed by the University's Academic Calendar
 
 ## MEMBERSHIP
 1. Membership is open to:
@@ -72,7 +76,7 @@
 
 1. Register of Members
 
-    1. The management committee shall cause a register to be kept in which shall be entered the names, student number and residential addresses of all persons admitted to membership of the Club/Society and the dates of their admission.
+    1. The management committee shall cause a register to be kept in which shall be entered the names and student number (if a student) of all persons admitted to membership of the Club/Society and the dates of their admission.
 
     2. Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the management committee or the members at any general meeting may require from time to time.
 
@@ -90,7 +94,7 @@
 
         2. the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary at least fourteen (14) days before the annual general meeting at which the election is to take place.
 
-1. Resignation of Removal from office of Member of Management Committee
+1. Resignation or Removal from office of Member of Management Committee
 
     1. Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society where that member shall be given the opportunity to fully present the member's case.
 
@@ -218,7 +222,7 @@
 
 1. Notice of General Meeting
 
-    1. The secretary shall convene at least two general meetings per semester of the Club/Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Club/Society.
+    1. The secretary shall convene at least one general meeting per semester of the Club/Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Club/Society.
 
     2. The manner by which such notice shall be given shall be determined by the management committee.
 
