@@ -2,9 +2,9 @@
 
 **Constitution - Affiliated Bodies**
 
-**Version 1.1**
+**Version 1.2**
 
-**17 October 2012**
+**2 June 2016**
 
 
 ## NAME
