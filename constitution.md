@@ -90,7 +90,7 @@
 
         2. the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary at least fourteen (14) days before the annual general meeting at which the election is to take place.
 
-1. Resignation of Removal from office of Member of Management Committee
+1. Resignation or Removal from office of Member of Management Committee
 
     1. Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society where that member shall be given the opportunity to fully present the member's case.
 
