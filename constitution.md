@@ -92,7 +92,7 @@
 
         1. any two (2) members[a] of the Club/Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
 
-        2. the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary at least fourteen (14) days before the annual general meeting at which the election is to take place.
+        2. the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary before the annual general meeting at which the election is to take place.
 
 1. Resignation or Removal from office of Member of Management Committee
 
