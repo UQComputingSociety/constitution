@@ -2,9 +2,9 @@
 
 **Constitution - Affiliated Bodies**
 
-**Version 1.2**
+**Version 1.3**
 
-**2 June 2016**
+**13 October 2016**
 
 
 ## NAME
@@ -84,7 +84,7 @@
 
 1. Membership of Management Committee
 
-    1. The management committee of the Club/Society shall consist of a president, vice-president, secretary, and treasurer, all of whom shall be members of the Club/Society, and such number of other members as the members of the Club/Society at any general meeting may from time to time elect. All the aforestated office bearers must be members of the Union. Membership of the management committee shall not be restricted other than by being a member of the University of Queensland Union.
+    1. The management committee of the Club/Society shall consist of a president, secretary, and treasurer, all of whom shall be members of the Club/Society, and such number of other members as the members of the Club/Society at any general meeting may from time to time elect. All the aforestated office bearers must be members of the Union. Membership of the management committee shall not be restricted other than by being a member of the University of Queensland Union.
 
     2. At the annual general meeting of the Club/Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
@@ -144,7 +144,7 @@
 
     10. Such notice shall clearly state the nature of the business to be discussed thereat.
 
-    11. The president shall preside as chairperson at every meeting of the management committee, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, the vice- president shall be chairperson or if the vice-president is not present at the meeting then the members may choose one (1) of their number to be chairperson of the meeting.
+    11. The president shall preside as chairperson at every meeting of the management committee, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, the members may choose one (1) of their number to be chairperson of the meeting.
 
     12. If within half an hour from the time appointed for the commencement of a management committee meeting a quorum is not present, the meeting, if convened upon the requisition of members of the management committee, shall lapse.
 
@@ -232,7 +232,7 @@
 
     1. Unless otherwise provided by these rules, at every general meeting -
 
-        1. the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the vice-president shall be the chairperson or if the vice-president is not present or is unwilling to act then the members present shall elect one (1) of their number to be chairperson of the meeting
+        1. the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the members present shall elect one (1) of their number to be chairperson of the meeting
 
         2. the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
 
@@ -294,4 +294,4 @@
 
     1. The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Club/Society.
 
-The constitution is enacted on this 23rd day of February 2011.
+The constitution is enacted on this 13rd day of october 2016.
