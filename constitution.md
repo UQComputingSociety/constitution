@@ -294,4 +294,4 @@
 
     1. The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Club/Society.
 
-The constitution is enacted on this 13rd day of october 2016.
+The constitution is enacted on this 13rd day of October 2016.
