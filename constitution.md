@@ -28,7 +28,7 @@
   
 ### 4 Membership Fees  
 4.1 The membership fees shall be such sum as the members shall from time to time at any General Meeting so determine, but shall not be less than two dollars ($2) per member per year. Any change in the membership fee shall take effect in the following year of subscription.  
-4.2 The membership fees shall be payable upon joining the Society. The payment of the membership subscription means that the member is considered a financial member of the club for the period of one (1) year, from the first day of March of the year of subscription.  
+4.2 The membership fees shall be payable upon joining the Society. The payment of the membership subscription means that the member is considered a financial member of the club for the period of twelve (12) months, from the first day of March of the year of subscription.  
 4.3 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.  
 4.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:  
 * the payment method is not cash; and  
@@ -53,11 +53,11 @@ the Management Committee shall consider whether that person's membership shall b
 ### 7 Membership of Management Committee  
 7.1 The Management Committee of the Society shall consist of:  
 * a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Offices of the Management Committee;  
-* zero or more other Officers of the Management Committee; and  
-* zero or more Delegates.  
+* zero (0) or more other Officers of the Management Committee; and  
+* zero (0) or more Delegates.  
   
 7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.  
-7.3 Each Officer of the Management Committee shall be one member of the society.  
+7.3 Each Officer of the Management Committee shall be one (1) member of the society.  
 7.4 The Delegates of the Management Committee shall be shared among several members of the Society.  
 7.5 No member may hold more than a single position on the Management Committee.  
 7.6 The number of members of the Management Committee must be less than half the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
@@ -97,7 +97,7 @@ the Management Committee shall consider whether that person's membership shall b
 8.7 The election of Delegates of the Management Committee without a General Meeting shall take place in the following manner:  
 * the Management Committee shall be at liberty to nominate any member of the Society to serve as a Delegate of the Management Committee;  
 * the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
-* the members of the Society shall have no less than one week to cast their vote;  
+* the members of the Society shall have no less than seven (7) days to cast their vote;  
 * the vote of every member of the Society shall be of equal weight;  
 * the nominee will be elected as a Delegate of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.  
