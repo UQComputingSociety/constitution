@@ -4,7 +4,7 @@
   
   
 ### 1 Preliminaries  
-1.1 The Society shall be called ìUniversity of Queensland Computing Societyî, hereafter referred to as ìthe Societyî  
+1.1 The Society shall be called ‚ÄúUniversity of Queensland Computing Society‚Äù, hereafter referred to as ‚Äúthe Society‚Äù  
 1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.  
   
 ### 2 Aim and Objectives  
@@ -150,7 +150,7 @@ the membership shall consider at a General Meeting whether that person's members
 14.2 Any such resolution may consist of several documents in like form, each signed by the relevant members of the Management Committee.  
 14.3 A flying minute may be digitally signed by any method the Management Committee deems appropriate.  
   
-### 15 Timing of Annual General Meetings}  
+### 15 Timing of Annual General Meetings
 15.1 Each Annual General Meeting of the Society must be held:  
 * at least once each year; and  
 * within four (4) months after the end of the Society's previous financial year.  
@@ -173,7 +173,7 @@ the membership shall consider at a General Meeting whether that person's members
 * being given a notice in writing of an intention to appeal against the decision of the Management Committee to reject an application for membership or to terminate the membership of any member.  
   
 ### 18 Quorum at General Meeting  
-18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society (‚àö(125+n)).  
+18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society (![sqrt](https://emoji.slack-edge.com/T0D0DT1F0/sqrt/59bcc239332428fe.png)(125+n)).  
   
 ### 19 Notice of General Meeting  
 19.1 The Secretary shall convene General Meeting of the Society by giving no less than fourteen (14) days notice of any such meetings to the members of the Society.  
@@ -206,7 +206,7 @@ the membership shall consider at a General Meeting whether that person's members
 22.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.  
 22.3 All monies shall be deposited in total as soon as practicable after receipt thereof.  
 22.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Administration Committee.  
-22.5 Cheques shall be crossed ``not negotiable''.  
+22.5 Cheques shall be crossed ‚Äúnot negotiable‚Äù.  
 22.6 The Management Committee shall determine the amount of petty cash that shall be kept.  
 22.7 All expenditure shall be approved or ratified by the Management Committee.  
 22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
