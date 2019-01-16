@@ -161,9 +161,8 @@ the membership shall consider at a General Meeting whether that person's members
 * the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer;  
 * the receiving of reports from the President and Secretary;  
 * the receiving of the auditor's report on the financial affairs of the Society for the last financial year;  
-* the presenting of the audited statement to the meeting for adoption;  
-* the election of members of the Management Committee; and  
-* the confirmation of the minutes of the preceding Annual General Meeting.  
+* the presenting of the audited statement to the meeting for adoption; and  
+* the election of members of the Management Committee.  
   
 ### 17 Special General Meeting  
 17.1 The Secretary shall convene a Special General Meeting by sending out notice of the meeting within fourteen (14) days of:  
