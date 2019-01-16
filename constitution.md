@@ -13,7 +13,7 @@
 * educate our members through programming competitions, peer-workshops, group projects and other methods; and  
 * provide and facilitate educational, industry, corporate networking through various events, mixers, and connections.  
   
-2.2 The assets and income of the Society shall be applied solely in furtherance of its above--mentioned objectives and no portion shall be distributed directly or indirectly to the members of the Society except in bona fide compensation for services rendered or expenses incurred on behalf of the Society.  
+2.2 The assets and income of the Society shall be applied solely in furtherance of its above-mentioned objectives and no portion shall be distributed directly or indirectly to the members of the Society except in bona fide compensation for services rendered or expenses incurred on behalf of the Society.  
 2.3 The Society shall not adopt aims or objectives that would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).  
   
 ### 3 Membership  
@@ -63,9 +63,9 @@ the Management Committee shall consider whether that person's membership shall b
 7.6 The number of members of the Management Committee must be less than half the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
   
 ### 8 Election of Members to the Management Committee  
-8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re--election.  
+8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re-election.  
 8.2 The Society must elect a President, Secretary, and Treasurer at the Annual General Meeting.  
-8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re--created.  
+8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.  
 8.4 At any General Meeting of the Society, the Members of the Society may resolve to create any number of Officers of the Management Committee.  
 8.5 At any General Meeting  of the Society, the Members of the Society may resolve to create any number of Delegates of the Management Committee. All existing Delegates shall continue to be members of the Management Committee.  
 8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
@@ -168,16 +168,16 @@ the membership shall consider at a General Meeting whether that person's members
 ### 17 Special General Meeting  
 17.1 The Secretary shall convene a Special General Meeting by sending out notice of the meeting within fourteen (14) days of:  
 * being directed to do so by the Management Committee;  
-* being given a requisition in writing signed by no less than one--third (1/3) of the members presently on the Management Committee, and no less than two (2) members of the Management Committee, clearly stating the reasons why said Special General Meeting is being convened and the nature of the business to be transacted thereat;  
+* being given a requisition in writing signed by no less than one-third (1/3) of the members presently on the Management Committee, and no less than two (2) members of the Management Committee, clearly stating the reasons why said Special General Meeting is being convened and the nature of the business to be transacted thereat;  
 * being given a requisition in writing signed by members of the Society numbering not less than the number of members required to constitute quorum at a general meeting, clearly stating the reasons why said Special General Meeting is being convened and the nature of the business to be transacted thereat; or  
 * being given a notice in writing of an intention to appeal against the decision of the Management Committee to reject an application for membership or to terminate the membership of any member.  
   
 ### 18 Quorum at General Meeting  
-18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty--five plus the number of financial members of the Society (?v(125+n)?).  
+18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society (√(125+n)).  
   
 ### 19 Notice of General Meeting  
 19.1 The Secretary shall convene General Meeting of the Society by giving no less than fourteen (14) days notice of any such meetings to the members of the Society.  
-19.2 Such notice shall be given shall be by e--mail, and any other manner determined by the Management Committee.  
+19.2 Such notice shall be given shall be by e-mail, and any other manner determined by the Management Committee.  
 19.3 Notice of a General Meeting shall clearly state the nature of the business to be discussed thereat, and the date, time and place of the general meeting.  
   
 ### 20 Procedure at General Meeting  
@@ -194,7 +194,7 @@ the membership shall consider at a General Meeting whether that person's members
 21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.  
 21.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Officer.  
 21.3 A special resolution to amend or add to these rules is passed at a meeting if:  
-* at least two--thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
+* at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
 * any additional requirement of the Constitution relating to the passage of a special resolution have been met.  
   
 21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.  
