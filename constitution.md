@@ -108,7 +108,7 @@ the Management Committee shall consider whether that person's membership shall b
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct;  
-* acts in a manner considered to be injurious or prejudicial to the character of interests of the Society  
+* acts in a manner considered to be injurious or prejudicial to the character or interests of the Society  
   
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.  
 9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.  
