@@ -54,11 +54,11 @@ the Management Committee shall consider whether that person's membership shall b
 7.1 The Management Committee of the Society shall consist of:  
 * a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Offices of the Management Committee;  
 * zero (0) or more other Officers of the Management Committee; and  
-* zero (0) or more Delegates.  
+* zero (0) or more Puisne Members of the Management Committee.  
   
 7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.  
 7.3 Each Officer of the Management Committee shall be one (1) member of the society.  
-7.4 The Delegates of the Management Committee shall be shared among several members of the Society.  
+7.4 The Puisne Members of the Management Committee shall be shared among several members of the Society.  
 7.5 No member may hold more than a single position on the Management Committee.  
 7.6 The number of members of the Management Committee must be less than half the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
   
@@ -67,24 +67,21 @@ the Management Committee shall consider whether that person's membership shall b
 8.2 The Society must elect a President, Secretary, and Treasurer at the Annual General Meeting.  
 8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.  
 8.4 At any General Meeting of the Society, the Members of the Society may resolve to create any number of Officers of the Management Committee.  
-8.5 At any General Meeting  of the Society, the Members of the Society may resolve to create any number of Delegates of the Management Committee. All existing Delegates shall continue to be members of the Management Committee.  
+8.5 At any General Meeting of the Society, the Members of the Society may resolve to create any number of Puisne Members of the Management Committee. All existing Puisne Members shall continue to be members of the Management Committee.  
 8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
-  
 * the President;  
 * the Secretary;  
 * the Treasurer;  
 * any other Officers of the Management Committee, in the order of creation or re-creation;  
-* the Delegates.  
+* the Puisne Members of the Management Committee.  
   
-8.6 The election of Officers and Delegates of the Management Committee at a General Meeting shall take place in the following manner:  
-  
-* any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or Delegate of the Management Committee;  
+8.6 The election of Officers and Puisne Members of the Management Committee at a General Meeting shall take place in the following manner:  
+* any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or Puisne Member of the Management Committee;  
 * the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place;  
 * at the commencement of the General Meeting, any nominations from the floor will be accepted;  
 * if in any election the number of candidates nominated for a position is fewer than the number of vacancies for that position, those candidates shall be elected unopposed without putting the matter to a vote;  
-* all Officers must be elected before the Delegates are elected;  
 * balloting lists shall be prepared (if necessary) containing the names of candidates in the order their nomination was received;  
-* all Officers shall be determined by optional preferential voting and all Delegates shall be determined by optional preferential proportional representation voting;  
+* all Officers shall be determined by optional preferential voting and all Puisne Members shall be determined colletctively by optional preferential proportional representation voting;  
 * the vote of every member of the Society shall be of equal weight;  
 * all elections must be by secret ballot;  
 * the assembly will select an impartial Returning Officer, who shall be responsible for ensuring the orderly running of the election;  
@@ -94,13 +91,14 @@ the Management Committee shall consider whether that person's membership shall b
 * in the case of a third tie between the same candidates, the winner shall be determined by sortition; and  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.  
   
-8.7 The election of Delegates of the Management Committee without a General Meeting shall take place in the following manner:  
-* the Management Committee shall be at liberty to nominate any member of the Society to serve as a Delegate of the Management Committee;  
+8.7 The election of Puisne Members of the Management Committee without a General Meeting shall take place in the following manner:  
+* the Management Committee shall be at liberty to nominate any member of the Society to serve as a Puisne Member of the Management Committee;  
 * the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
 * the members of the Society shall have no less than seven (7) days to cast their vote;  
 * the vote of every member of the Society shall be of equal weight;  
-* the nominee will be elected as a Delegate of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
-* any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.  
+* the nominee will be elected as a Puisne Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
+* any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
+
 ### 9 Resignation or Removal from Office of Membership of Management Committee  
 9.1 Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary. Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, where it shall take effect on that later date.  
 9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.  
@@ -112,11 +110,12 @@ the Management Committee shall consider whether that person's membership shall b
   
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.  
 9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.  
-9.5 There is no right of appeal against a member's removal from the Management Committee under this section.  
+9.5 There is no right of appeal against a member's removal from the Management Committee under this section.
+
 ### 10 Vacancies on Management Committee  
 10.1 The Management Committee shall have the power at any time to appoint any member of the Society to fill the casual vacancy of any Officer on the Management Committee until the next Annual General Meeting.  
 10.2 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.  
-10.3 The resignation or removal of a Delegate does not create a casual vacancy on the Management Committee.  
+10.3 The resignation or removal of a Puisne Member does not create a casual vacancy on the Management Committee.  
   
 ### 11 Functions of Management Committee  
 11.1 Except as otherwise provided by the Constitution and subject to resolutions of the members of the Society carried at any General Meeting, the Management Committee:  
@@ -130,7 +129,7 @@ the membership shall consider at a General Meeting whether that person's members
 12.1 The Management Committee shall meet together and regulate its proceedings as required to exercise its functions.  
 12.2 Meetings of the Management Committee shall be called by any member of the Management Committee with seven (7) days notice. Such notice shall clearly state the reasons why said meeting is being convened, the nature of the business to be discussed thereat, and the date, time and place of the meeting.  
 12.3 The Secretary (or nominee for the meeting) must keep an accurate record of resolutions passed at all Management Committee meetings.  
-12.4 A meeting of the Management Committee shall be quorate if both more than half of the Officers of Management Committee as at the close of the last General Meeting are present and more than half of the Officers of Management Committee as at the close of the last General Meeting and the Delegates  currently on the Management Committee combined are present.  
+12.4 A meeting of the Management Committee shall be quorate if both half or more of the Officers of Management Committee as at the close of the last General Meeting are present and more than half of the Officers of Management Committee as at the close of the last General Meeting and the Puisne Members currently on the Management Committee combined are present.  
 12.5 Questions, matters or resolutions arising at any meeting of the Management Committee shall be decided by a vote, and shall pass with a simple majority.  
 12.6 A member of the Management Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote that member's vote shall not be counted.  
 12.7 The President (or nominee for the meeting) shall preside as chairperson at every meeting of the Management Committee. If there is no President, or if at any meeting the President is no present within ten (10) minutes after the time appointed for holding the meeting, or if the President has advised the Secretary or other members of the Management Committee of an inability to attend the meeting, or if the President is unwilling to act, then the members of the Management Committee may choose any member of the Management Committee to be chairperson of the meeting.  
@@ -220,7 +219,7 @@ the membership shall consider at a General Meeting whether that person's members
 22.14 The financial year of the Society shall be determined by the Clubs and Societies Administration Officer.  
   
 ### 23 Dissolution Clause  
-23.1 In the event of the Society being dissolved, the amount  that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit or gain of its individual members.  
+23.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit or gain of its individual members.  
   
 ### 24 Documents  
 24.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.  
