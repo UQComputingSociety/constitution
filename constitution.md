@@ -43,11 +43,8 @@
 * Any other members of the University or wider community interested in Club/Society's activities
 
 
-4.2 The Club/Society shall have not less than:
-* Thirty (30) financial members in the case of a subsidised club
-* Fifteen (15) financial members in the case of a publications club
-* Ten (10) financial members in the case of an Ipswich based club.
-* 70% of the Club/Society's membership must be students.
+4.2 The Society shall have no less than thirty (30) members.
+4.3 Seventy percent (70%) of the Society's financial members must be University of Queensland Union members.
 
 ## 5 Membership Fees
 
