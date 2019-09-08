@@ -246,7 +246,7 @@
 * any additional requirement of the Constitution relating to the passage of a special resolution have been met.  
   
 21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.  
-21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless is poll is demanded by three (3) or more members present at the General meeting.  
+21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General meeting.  
 21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.  
 
 ### 23 Funds and Accounts
