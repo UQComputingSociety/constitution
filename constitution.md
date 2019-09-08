@@ -162,11 +162,10 @@
 
 13.6 Questions arising at any meeting shall be determined by a majority of votes of the members present and, in the case of an equality of votes, the question shall be deemed to be decided in the negative.
 
-## 14 Resolutions of Management Committee Without Meeting
-
-14.1 A flying minute signed by all the members of the management committee shall be as valid and effectual as if it had been passed at a meeting of the management committee duly convened and held.
-
-14.2 Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the management committee.
+### 14 Resolutions of Management Committee Without Meeting  
+14.1 A flying minute signed by members of the Management Committee shall be as valid as effectual as if it had been voted in favour of by those members at a meeting of the Management Committee duly convened and held and attended by all members of the Management Committee.  
+14.2 Any such resolution may consist of several documents in like form, each signed by the relevant members of the Management Committee.  
+14.3 A flying minute may be digitally signed by any method the Management Committee deems appropriate.  
 
 ## 15  First Annual General Meeting
 
