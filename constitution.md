@@ -281,6 +281,6 @@
 
 ## 25 Documents
 
-25.1 The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Club/Society.
+25.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.  
 
 The constitution is enacted on this 13th day of October 2016.
