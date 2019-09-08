@@ -238,23 +238,16 @@
 
 * every resolution must be minuted.
 
-## 22 Alteration of Rules
-
-22.1 These rules may be amended or added to from time to time by a special resolution carried at any general meeting.
-
-22.2 However any amendment or addition is valid only if it is registered by the president and approved by the Clubs and Societies committee.
-
-22.3 A special resolution is passed at a meeting if:
-
-* of the entitled members of the Club/Society who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three quarters (3/4) vote in favour of the resolution; and
-
-* any additional requirements of the constitution relating to the passing of a special resolution have been met.
-
-22.3 A resolution is not to be considered to have been passed as a special resolution under sub-section (2) unless not less than twenty-one (21) days notice has been given in accordance with the rules to all of the entitled members of the Club/Society specifying the intention to propose the resolution as a special resolution.
-
-22.4 At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
-
-22.5 In this section "entitled member" means a member of the Club/Society who is entitled under the rules of the association to vote.
+### 21 Alteration of Rules  
+21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.  
+21.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Committee.  
+21.3 A special resolution to amend or add to these rules is passed at a meeting if:  
+* at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
+* any additional requirement of the Constitution relating to the passage of a special resolution have been met.  
+  
+21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.  
+21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless is poll is demanded by three (3) or more members present at the General meeting.  
+21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.  
 
 ### 23 Funds and Accounts
 
