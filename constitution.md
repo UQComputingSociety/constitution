@@ -168,17 +168,10 @@
 
 14.2 Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the management committee.
 
-## 15  First Annual General Meeting
-
-15.1 The first annual general meeting must be held within twelve (12) months after the day the Club/Society is fully affiliated.
-
-## 16 Subsequent Annual General Meetings
-
-16.1. Each subsequent annual general meeting must be held:
-
-* at least once each year
-
-* within three (3) months after the end of the Club/Society's previous financial year.
+### 15 Timing of Annual General Meetings
+15.1 Each Annual General Meeting of the Society must be held:  
+* at least once each year; and  
+* within three (3) months after the end of the Society's previous financial year.  
 
 ## 17 Business to be Transacted at Annual General Meeting
 
