@@ -73,7 +73,8 @@
 
 the management committee shall consider whether the member's membership shall be terminated.
 
-6.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.
+6.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.  
+6.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union.
 
 ## 7 Register of Members
 
