@@ -79,18 +79,54 @@
 
 7.3 The register shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
 
-## 8 Membership of Management Committee
-
-8.1 The management committee of the Club/Society shall consist of a president, secretary, and treasurer, all of whom shall be members of the Club/Society, and such number of other members as the members of the Club/Society at any general meeting may from time to time elect. All the aforestated office bearers must be members of the Union. Membership of the management committee shall not be restricted other than by being a member of the University of Queensland Union.
-
-8.2 At the annual general meeting of the Club/Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
-
-8.3 The election of officers and other members of the management committee shall take place in the following manner:
-
-1. any two (2) members[a] of the Club/Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
-
-2. the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary before the annual general meeting at which the election is to take place.
-3. nominations from the floor of the annual general meeting will be accepted
+### 7 Membership of Management Committee  
+7.1 The Management Committee of the Society shall consist of:  
+* a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Offices of the Management Committee;  
+* zero (0) or more other Officers of the Management Committee; and  
+* zero (0) or more Puisne Members of the Management Committee.  
+  
+7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.  
+7.3 Each Officer of the Management Committee shall be one (1) member of the society.  
+7.4 The Puisne Members of the Management Committee shall be shared among several members of the Society.  
+7.5 No member may hold more than a single position on the Management Committee.  
+7.6 The number of members of the Management Committee must be less than half the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
+  
+### 8 Election of Members to the Management Committee  
+8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re-election.  
+8.2 The Society must elect a President, Secretary, and Treasurer at the Annual General Meeting.  
+8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.  
+8.4 At any General Meeting of the Society, the Members of the Society may resolve to create any number of Officers of the Management Committee.  
+8.5 At any General Meeting of the Society, the Members of the Society may resolve to create any number of Puisne Members of the Management Committee. All existing Puisne Members shall continue to be members of the Management Committee.  
+8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
+* the President;  
+* the Secretary;  
+* the Treasurer;  
+* any other Officers of the Management Committee, in the order of creation or re-creation;  
+* the Puisne Members of the Management Committee.  
+  
+8.6 The election of Officers and Puisne Members of the Management Committee at a General Meeting shall take place in the following manner:  
+* any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or Puisne Member of the Management Committee;  
+* the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place;  
+* at the commencement of the General Meeting, any nominations from the floor will be accepted;  
+* if in any election the number of candidates nominated for a position is fewer than the number of vacancies for that position, those candidates shall be elected unopposed without putting the matter to a vote;  
+* balloting lists shall be prepared (if necessary) containing the names of candidates in the order their nomination was received;  
+* all Officers shall be determined by optional preferential voting and all Puisne Members shall be determined colletctively by optional preferential proportional representation voting;  
+* the vote of every member of the Society shall be of equal weight;  
+* all elections must be by secret ballot;  
+* the assembly will select an impartial Returning Officer, who shall be responsible for ensuring the orderly running of the election;  
+* the Returning Officer may, with the consensus of the assembly, for each position to be elected, appoint Assistant Returning Officers to assist with the orderly running of the election;  
+* in the case of a tie, another round voting will immediately occur, with only the tied candidates appearing on the ballot;  
+* in the case of a second tie between the same candidates, another round of voting must occur before the close of the General Meeting, with only the tied candidates appearing on the ballot;  
+* in the case of a third tie between the same candidates, the winner shall be determined by sortition; and  
+* any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.  
+  
+8.7 The election of Puisne Members of the Management Committee without a General Meeting shall take place in the following manner:  
+* the Management Committee shall be at liberty to nominate any member of the Society to serve as a Puisne Member of the Management Committee;  
+* the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
+* the members of the Society shall have no less than seven (7) days to cast their vote;  
+* the vote of every member of the Society shall be of equal weight;  
+* the nominee will be elected as a Puisne Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
+* any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
 ## 9 Resignation or Removal from office of Member of Management Committee
 
