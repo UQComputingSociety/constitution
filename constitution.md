@@ -1,16 +1,11 @@
-# Schedule Fourteen - The Constitution of the University of Queensland Computing Society
-
-**Constitution - Affiliated Bodies**
-
-**Version 1.3**
-
-**13 October 2016**
-
-
-## 1 Name
-1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”
-
-1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.
+# The Constitution  
+## University of Queensland Computing Society  
+## 8th of October 2018  
+  
+  
+### 1 Preliminaries  
+1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”  
+1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.  
 
 
 ## 2 Aims and Objectives
