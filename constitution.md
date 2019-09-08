@@ -1,6 +1,6 @@
 # The Constitution  
 ## University of Queensland Computing Society  
-## 8th of October 2018  
+## 8th of October 2019  
   
   
 ### 1 Preliminaries  
@@ -287,4 +287,5 @@
 
 25.1 The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Society.
 
-The constitution is enacted on this 13th day of October 2016.
+###
+This constitution is enacted on this 8th day of October, 2019.
