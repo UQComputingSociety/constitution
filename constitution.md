@@ -218,13 +218,10 @@
 
 19.1 At any general meeting the number of members required to constitute a quorum shall be 15% of the membership plus one (1) OR a majority of 75% of the management committee plus 10 members not elected and/or appointed to the management committee.
 
-## 20 Notice of General Meeting
-
-20.1 The secretary shall convene at least one general meeting per semester of the Club/Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Club/Society.
-
-20.2 The manner by which such notice shall be given shall be determined by the management committee.
-
-20.3 Notice of a general meeting shall clearly state the nature of the business to be discussed thereat.
+### 19 Notice of General Meeting  
+19.1 The Secretary shall convene General Meeting of the Society by giving no less than fourteen (14) days notice of any such meetings to the members of the Society.  
+19.2 Such notice shall be given shall be by e-mail, and any other manner determined by the Management Committee.  
+19.3 Notice of a General Meeting shall clearly state the nature of the business to be discussed thereat, and the date, time and place of the general meeting.  
 
 ## 21 Procedure at General Meeting
 
