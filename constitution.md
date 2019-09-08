@@ -57,19 +57,23 @@
 
 ## 6 Termination of Membership
 
-6.1 A member may resign from the Club/Society at any time by giving notice in writing to the secretary.
+6.1 A member may resign from the Society at any time by giving notice in writing to the Secretary.
 
-6.2 Such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date.
+6.2 Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, when it shall take effect on the later date.
 
-6.3 If a member:
+6.3 If a member or applicant for membership:
 
-* fails to comply with any of the provisions of these rules
+* fails to comply with any of the provisions of the Constitution;
 
-* has membership fees in arrears
+* has membership fees in arrears;
 
-* conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of the Club/Society, the management committee shall consider whether the member's membership shall be terminated.
+* violates the Society's Code of Conduct; or
 
-6.4 The member concerned shall be given a full and fair opportunity of presenting the member's case and if the management committee resolves to terminate the membership it shall instruct the secretary to advise the member in writing accordingly.
+* acts in a manner considered to be injurious or prejudicial to the character or interests of the Society
+
+the management committee shall consider whether the member's membership shall be terminated.
+
+6.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.
 
 ## 7 Register of Members
 
