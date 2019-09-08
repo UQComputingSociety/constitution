@@ -180,25 +180,14 @@
 
 * within three (3) months after the end of the Club/Society's previous financial year.
 
-## 17 Business to be Transacted at Annual General Meeting
-
-17.1 The following business must be transacted at every annual general meeting:
-
-* the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the treasurer
-
-* the receiving of reports from the president and the secretary
-
-* the receiving of the auditor's report on the financial affairs of the Club/Society for the last financial year
-
-* the presenting of the audited statement to the meeting for adoption
-
-* the election of members of the management committee
-
-* the appointment of an auditor who shall be the nominee of the Union for Club/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies
-
-* the minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the annual general meeting
-
-* where there is a tied vote, the issue will be deemed to have been resolved in the negative
+## 16 Business to be Transacted at Annual General Meetings  
+16.1 The following business must be transacted at every Annual General Meeting:  
+* the confirmation of the Minutes of the previous Annual General Meeting, and of the Minutes of any Special General Meetings that occurred since the previous Annual General Meeting;  
+* the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer;  
+* the receiving of reports from the President and Secretary;  
+* the receiving of the auditor's report on the financial affairs of the Society for the last financial year;  
+* the presenting of the audited statement to the meeting for adoption; and  
+* the election of members of the Management Committee.  
 
 ## 18 Special General Meeting
 
