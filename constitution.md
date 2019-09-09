@@ -40,7 +40,7 @@
 
 * Any University of Queensland Academic Staff Member
 
-* Any other members of the University or wider community interested in Society's activities
+* Any other members of the University or wider community interested in the Society's activities
 
 
 4.2 The Society shall have no less than thirty (30) members.
