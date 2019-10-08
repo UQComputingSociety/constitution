@@ -98,9 +98,9 @@
 
 8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.  
 
-8.4 At any General Meeting of the Society, the Members of the Society may resolve to create any number of Officers of the Management Committee.  
+8.4 At any General Meeting of the Society, the Members of the Society may resolve to create zero or more of Officers of the Management Committee.  
 
-8.5 At any General Meeting of the Society, the Members of the Society may resolve to create any number of Puisne Members of the Management Committee. Except at the Annual General Meeting, all existing Puisne Members shall continue to be members of the Management Committee.  
+8.5 At any General Meeting of the Society, the Members of the Society may resolve to create zero or more of Puisne Members of the Management Committee. Except at the Annual General Meeting, all existing Puisne Members shall continue to be members of the Management Committee.  
 
 8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
 * the President;  
