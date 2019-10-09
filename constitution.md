@@ -75,7 +75,7 @@ the management committee shall consider whether the member's membership shall be
 
 6.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.  
 6.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union.
-6.6 Changes to the Society's Code of Conduct be written to members with seven (7) days notice before they come into effect.
+6.6 The management committee will give written notice to all members of the society notifying them of any alterations to the Society's Code of Conduct. These alterations will come into effect fourteen (14) days after the written notice is distributed. Any requisition for a Special General Meeting regarding alterations to the Society's Code of Conduct will annul the alterations.
 
 ## 7 Register of Members
 
