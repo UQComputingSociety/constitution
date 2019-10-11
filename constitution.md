@@ -253,9 +253,9 @@ the membership shall consider at a General Meeting whether that person's members
 
     * A requisition mentioned in subsection 18(a) shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
-## 19 Quorum at General Meeting
+## 18 Quorum at General Meeting
 
-19.1 At any general meeting the number of members required to constitute a quorum shall be 15% of the membership plus one (1) OR a majority of 75% of the management committee plus 10 members not elected and/or appointed to the management committee.
+18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society (&#8730;(125+n)).  
 
 ## 20 Notice of General Meeting
 
