@@ -265,17 +265,16 @@ the membership shall consider at a General Meeting whether that person's members
 
 19.3 Notice of a General Meeting shall clearly state the nature of the business to be discussed thereat, and the date, time and place of the general meeting.  
 
-## 21 Procedure at General Meeting
+## 20 Procedure at General Meeting
 
-21.1 Unless otherwise provided by these rules, at every general meeting:
-
-* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the members present shall elect one (1) of their number to be chairperson of the meeting
-
-* the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
-
-* every question, matter or resolution shall be decided by a majority of votes of the members present
-
-* every resolution must be minuted.
+20.1 Unless otherwise provided by these rules, at every General Meeting:  
+* the President (or nominee for the meeting) shall preside as chairperson;  
+* if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;  
+* every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
+* every resolution must be minuted;  
+* the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;  
+* proxies that follow the University of Queensland Union regulations will be allowed; and  
+* proxies that follow a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting will be allowed.
 
 ## 22 Alteration of Rules
 
