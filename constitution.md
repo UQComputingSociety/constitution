@@ -256,23 +256,36 @@
 
 22.5 In this section "entitled member" means a member of the Club/Society who is entitled under the rules of the association to vote.
 
-## 22 Funds and Accounts  
-22.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate a single account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies Committee.  
-22.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.  
-22.3 All monies shall be deposited in total as soon as practicable after receipt thereof.  
-22.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Committee.  
-22.5 Cheques shall be crossed “not negotiable”.  
-22.6 The Management Committee shall determine the amount of petty cash that shall be kept.  
-22.7 All expenditure shall be approved or ratified by the Management Committee.  
+## 22 Funds and Accounts
+
+22.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate a single account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies Committee.
+
+22.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
+
+22.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
+
+22.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Committee.
+
+22.5 Cheques shall be crossed “not negotiable”.
+
+22.6 The Management Committee shall determine the amount of petty cash that shall be kept.
+
+22.7 All expenditure shall be approved or ratified by the Management Committee.
+
 22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
 * the income and expenditure for the financial year just ended; and  
 * the assets and liabilities at the close of that year.  
   
-22.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.  
-22.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.  
-22.11 When the annual incoming during the financial year of the Society total strictly greater than fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by an independent auditor appointed by the Management Committee.  
-22.12 The auditor must examine the statement prepared by the Treasurer and report on it to the Secretary before the next Annual General Meeting.  
-22.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.  
+22.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
+
+22.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.
+
+22.11 When the annual incoming during the financial year of the Society total strictly greater than fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by an independent auditor appointed by the Management Committee.
+
+22.12 The auditor must examine the statement prepared by the Treasurer and report on it to the Secretary before the next Annual General Meeting.
+
+22.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.
+
 22.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.  
 
 ## 24 Dissolution Clause
