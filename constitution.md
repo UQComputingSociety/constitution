@@ -238,15 +238,20 @@
 
 * every resolution must be minuted.
 
-### 21 Alteration of Rules  
-21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.  
-21.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Committee.  
+### 21 Alteration of Rules
+
+21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.
+
+21.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Committee.
+
 21.3 A special resolution to amend or add to these rules is passed at a meeting if:  
 * at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
 * any additional requirement of the Constitution relating to the passage of a special resolution have been met.  
   
-21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.  
-21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General meeting.  
+21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.
+
+21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General meeting.
+
 21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.  
 
 ### 23 Funds and Accounts
