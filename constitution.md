@@ -13,6 +13,7 @@
 1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.
 
 ## 2 Aims and Objectives
+
 2.1 The aims of the Society are:  
 * To provide a fun, social, and inclusive environment for those interested in coding and technology.  
 * Educate our members through programming competitions, peer-workshops, group projects and other methods.  
@@ -23,6 +24,7 @@
 2.3 The Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
 ## 3 Membership
+
 3.1 Membership is open to:  
 * Any student of the University of Queensland  
 * Any University of Queensland Academic Staff Member  
@@ -74,7 +76,8 @@ the management committee shall consider whether the member's membership shall be
 
 6.3 The register shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
 
-## 7 Membership of Management Committee  
+## 7 Membership of Management Committee
+
 7.1 The Management Committee of the Society shall consist of:  
 * a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Offices of the Management Committee;  
 * zero (0) or more other Officers of the Management Committee; and  
@@ -133,12 +136,13 @@ the management committee shall consider whether the member's membership shall be
 * the nominee will be elected as a Puisne Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
-## 9 Resignation or Removal from Office of Membership of Management Committee  
+## 9 Resignation or Removal from Office of Membership of Management Committee
+
 9.1 Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary. Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, where it shall take effect on that later date.
 
 9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.
 
-9.3 If a member of the Management Committee:  
+9.3 If a member of the Management Committee:
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct;  
@@ -219,7 +223,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 15.1 Each Annual General Meeting of the Society must be held:  
 * at least once each year; and  
-* within three (3) months after the end of the Society's previous financial year.  
+* within three (3) months after the end of the Society's previous financial year.
 
 ## 16 Business to be Transacted at Annual General Meetings
 
