@@ -44,8 +44,10 @@
 
 
 4.2 The Society shall have no less than thirty (30) members.
+
 4.3 Seventy percent (70%) of the Society's financial members must be University of Queensland Union members.
-4.4 Honorary life membership may be granted to any individual as determined by special resolution at a General Meeting. 
+
+4.4 Honorary life membership may be granted to any individual as determined by special resolution at a General Meeting.
 
 ## 5 Membership Fees
 
