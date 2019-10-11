@@ -1,5 +1,7 @@
-# The Constitution  
-## University of Queensland Computing Society  
+# The Constitution
+
+## University of Queensland Computing Society
+
 ## 8th of October 2019
 
 ---
@@ -8,7 +10,7 @@
 
 1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”.
 
-1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.  
+1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.
 
 ## 2 Aims and Objectives
 2.1 The aims of the Society are:  
@@ -60,7 +62,7 @@ the management committee shall consider whether the member's membership shall be
 
 5.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership, the Secretary shall advise that person in writing accordingly.
 
-5.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union. 
+5.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union.
 
 5.6 The management committee will give written notice to all members of the society notifying them of any alterations to the Society's Code of Conduct. These alterations will come into effect fourteen (14) days after the written notice is distributed. Any requisition for a Special General Meeting regarding alterations to the Society's Code of Conduct will annul the alterations.
 
@@ -76,8 +78,8 @@ the management committee shall consider whether the member's membership shall be
 7.1 The Management Committee of the Society shall consist of:  
 * a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Offices of the Management Committee;  
 * zero (0) or more other Officers of the Management Committee; and  
-* zero (0) or more Puisne Members of the Management Committee.  
-  
+* zero (0) or more Puisne Members of the Management Committee.
+
 7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.
 
 7.3 Each Officer of the Management Committee shall be one (1) member of the society.
@@ -86,27 +88,27 @@ the management committee shall consider whether the member's membership shall be
 
 7.5 No member may hold more than a single position on the Management Committee.
 
-7.6 The number of members of the Management Committee must be less than half (1/2) the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
-  
-## 8 Election of Members to the Management Committee  
+7.6 The number of members of the Management Committee must be less than half (1/2) the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.
+
+## 8 Election of Members to the Management Committee
 
 8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re-election.
 
-8.2 The Society must elect a President, Secretary, and Treasurer at the Annual General Meeting.  
+8.2 The Society must elect a President, Secretary, and Treasurer at the Annual General Meeting.
 
-8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.  
+8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.
 
-8.4 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more of Officers of the Management Committee.  
+8.4 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more of Officers of the Management Committee.
 
-8.5 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more of Puisne Members of the Management Committee. Except at the Annual General Meeting, all existing Puisne Members shall continue to be members of the Management Committee.  
+8.5 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more of Puisne Members of the Management Committee. Except at the Annual General Meeting, all existing Puisne Members shall continue to be members of the Management Committee.
 
 8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
 * the President;  
 * the Secretary;  
 * the Treasurer;  
 * any other Officers of the Management Committee, in the order of creation or re-creation;  
-* the Puisne Members of the Management Committee.  
-  
+* the Puisne Members of the Management Committee.
+
 8.7 The election of Officers and Puisne Members of the Management Committee at a General Meeting shall take place in the following manner:  
 * any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or Puisne Member of the Management Committee;  
 * the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place;  
@@ -121,8 +123,8 @@ the management committee shall consider whether the member's membership shall be
 * in the case of a tie, another round voting will immediately occur, with only the tied candidates appearing on the ballot;  
 * in the case of a second tie between the same candidates, another round of voting must occur before the close of the General Meeting, with only the tied candidates appearing on the ballot;  
 * in the case of a third tie between the same candidates, the winner shall be determined by sortition; and  
-* any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.  
-  
+* any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
+
 8.7 The election of Puisne Members of the Management Committee without a General Meeting shall take place in the following manner:  
 * the Management Committee shall be at liberty to nominate any member of the Society to serve as a Puisne Member of the Management Committee;  
 * the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
@@ -140,20 +142,21 @@ the management committee shall consider whether the member's membership shall be
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct;  
-* acts in a manner considered to be injurious or prejudicial to the character or interests of the Society  
-  
+* acts in a manner considered to be injurious or prejudicial to the character or interests of the Society
+
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
 
 9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
 
 9.5 There is no right of appeal against a member's removal from the Management Committee under this section.
 
-## 10 Vacancies on Management Committee  
+## 10 Vacancies on Management Committee
+
 10.1 The Management Committee shall have the power at any time to appoint any member of the Society to fill the casual vacancy of any Officer on the Management Committee until the next Annual General Meeting.
 
 10.2 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.
 
-10.3 The resignation or removal of a Puisne Member does not create a casual vacancy on the Management Committee.  
+10.3 The resignation or removal of a Puisne Member does not create a casual vacancy on the Management Committee.
 
 ## 11 Functions of the Management Committee
 
@@ -184,9 +187,10 @@ the membership shall consider at a General Meeting whether that person's members
 
 12.8 The President (or nominee for the meeting) shall preside as chairperson at every meeting of the Management Committee. If there is no President, or if at any meeting the President is no present within ten (10) minutes after the time appointed for holding the meeting, or if the President has advised the Secretary or other members of the Management Committee of an inability to attend the meeting, or if the President is unwilling to act, then the members of the Management Committee may choose any member of the Management Committee to be chairperson of the meeting.
 
-12.9 If within thirty (30) minutes from the time appointed for the commencement of a Management Committee meeting a quorum is not present, the meeting shall lapse.  
+12.9 If within thirty (30) minutes from the time appointed for the commencement of a Management Committee meeting a quorum is not present, the meeting shall lapse.
 
-## 13 Delegation of Powers of Management Committee  
+## 13 Delegation of Powers of Management Committee
+
 13.1 The Management Committee may delegate any of its powers to a subcommittee consisting of such members of the Society as the Management Committee sees fit.
 
 13.2 Any subcommittee so formed shall in the exercise of the powers so delegated conform to any regulations that may be imposed on it by the Management Committee.
@@ -201,7 +205,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 13.7 Between each meeting of a subcommittee, the chairperson must make and deliver to the Secretary a written report of the meeting.
 
-13.8 A subcommittee may resolve to refer a matter to the Management Committee.  
+13.8 A subcommittee may resolve to refer a matter to the Management Committee.
 
 ## 14 Resolutions of Management Committee Without Meeting
 
@@ -209,21 +213,23 @@ the membership shall consider at a General Meeting whether that person's members
 
 14.2 Any such resolution may consist of several documents in like form, each signed by the relevant members of the Management Committee.
 
-14.3 A flying minute may be digitally signed by any method the Management Committee deems appropriate.  
+14.3 A flying minute may be digitally signed by any method the Management Committee deems appropriate.
 
 ## 15 Timing of Annual General Meetings
+
 15.1 Each Annual General Meeting of the Society must be held:  
 * at least once each year; and  
 * within three (3) months after the end of the Society's previous financial year.  
 
-## 16 Business to be Transacted at Annual General Meetings  
+## 16 Business to be Transacted at Annual General Meetings
+
 16.1 The following business must be transacted at every Annual General Meeting:  
 * the confirmation of the Minutes of the previous Annual General Meeting, and of the Minutes of any Special General Meetings that occurred since the previous Annual General Meeting;  
 * the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer;  
 * the receiving of reports from the President and Secretary;  
 * the receiving of the auditor's report on the financial affairs of the Society for the last financial year;  
 * the presenting of the audited statement to the meeting for adoption; and  
-* the election of members of the Management Committee.  
+* the election of members of the Management Committee.
 
 ## 17 Special General Meeting
 
@@ -236,7 +242,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 18 Quorum at General Meeting
 
-18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society (&#8730;(125+n)).  
+18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society (&#8730;(125+n)).
 
 ## 19 Notice of General Meeting
 
@@ -244,7 +250,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 19.2 Such notice shall be given shall be by e-mail, and any other manner determined by the Management Committee.
 
-19.3 Notice of a General Meeting shall clearly state the nature of the business to be discussed thereat, and the date, time and place of the general meeting.  
+19.3 Notice of a General Meeting shall clearly state the nature of the business to be discussed thereat, and the date, time and place of the general meeting.
 
 ## 20 Procedure at General Meeting
 
@@ -265,13 +271,13 @@ the membership shall consider at a General Meeting whether that person's members
 
 21.3 A special resolution to amend or add to these rules is passed at a meeting if:  
 * at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
-* any additional requirement of the Constitution relating to the passage of a special resolution have been met.  
-  
+* any additional requirement of the Constitution relating to the passage of a special resolution have been met.
+
 21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.
 
 21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General meeting.
 
-21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.  
+21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.
 
 ## 22 Funds and Accounts
 
@@ -291,8 +297,8 @@ the membership shall consider at a General Meeting whether that person's members
 
 22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
 * the income and expenditure for the financial year just ended; and  
-* the assets and liabilities at the close of that year.  
-  
+* the assets and liabilities at the close of that year.
+
 22.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
 
 22.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.
@@ -303,7 +309,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 22.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.
 
-22.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.  
+22.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.
 
 ## 23 Dissolution Clause
 
