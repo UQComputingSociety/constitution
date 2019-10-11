@@ -159,11 +159,12 @@ the membership shall consider at a General Meeting whether that person's members
 
 9.5 There is no right of appeal against a member's removal from the Management Committee under this section.
 
-## 10 Vacancies on Management Committee
+## 10 Vacancies on Management Committee  
+10.1 The Management Committee shall have the power at any time to appoint any member of the Society to fill the casual vacancy of any Officer on the Management Committee until the next Annual General Meeting.
 
-10.1 The management committee shall have power at any time to appoint any member of the Society to fill any casual vacancy on the management committee until the next annual general meeting.
+10.2 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.
 
-10.2 The continuing members of the management committee may act notwithstanding any casual vacancy in the management committee, however if their number is reduced below the number fixed as is necessary for quorum of the management committee, the continuing member or members may act for the purpose of increasing the number of members of the management committee to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
+10.3 The resignation or removal of a Puisne Member does not create a casual vacancy on the Management Committee.  
 
 ## 11 Functions of the Management Committee
 
