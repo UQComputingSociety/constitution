@@ -149,13 +149,20 @@
 12.13 In any other case it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time and place as the management committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
 
 ## 13 Delegation of Powers of Management Committee  
-13.1 The Management Committee may delegate any of its powers to a subcommittee consisting of such members of the Society as the Management Committee sees fit.  
-13.2 Any subcommittee so formed shall in the exercise of the powers so delegated conform to any regulations that may be imposed on it by the Management Committee.  
-13.3 A subcommittee may elect a chairperson of its meetings.  
-13.4 If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, or if the chairperson has advised the subcommittee of an inability to attend the meeting, or if the chairperson is unwilling to act, the members of the subcommittee may choose any member of the subcommittee to be chairperson of the meeting.  
-13.5 A subcommittee may meet and adjourn, as it thinks proper.  
-13.6 Questions, matters or resolutions arising at any meeting of a subcommittee shall be decided by a vote, and shall pass with a simple majority.  
-13.7 Between each meeting of a subcommittee, the chairperson must make and deliver to the Secretary a written report of the meeting. 
+13.1 The Management Committee may delegate any of its powers to a subcommittee consisting of such members of the Society as the Management Committee sees fit.
+
+13.2 Any subcommittee so formed shall in the exercise of the powers so delegated conform to any regulations that may be imposed on it by the Management Committee.
+
+13.3 A subcommittee may elect a chairperson of its meetings.
+
+13.4 If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, or if the chairperson has advised the subcommittee of an inability to attend the meeting, or if the chairperson is unwilling to act, the members of the subcommittee may choose any member of the subcommittee to be chairperson of the meeting.
+
+13.5 A subcommittee may meet and adjourn, as it thinks proper.
+
+13.6 Questions, matters or resolutions arising at any meeting of a subcommittee shall be decided by a vote, and shall pass with a simple majority.
+
+13.7 Between each meeting of a subcommittee, the chairperson must make and deliver to the Secretary a written report of the meeting.
+
 13.8 A subcommittee may resolve to refer a matter to the Management Committee.  
 
 ## 14 Resolutions of Management Committee Without Meeting
