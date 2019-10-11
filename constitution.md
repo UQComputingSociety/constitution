@@ -157,7 +157,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 11 Functions of the Management Committee
 
-11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Society carried at any general meeting the management committee:  
+11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Society carried at any general meeting, the management committee:  
 * shall have the general control and management of the administration of the affairs and funds of the Society  
 * shall have authority to interpret the meaning of these rules and any matter relating to the Society on which these rules are silent.
 
