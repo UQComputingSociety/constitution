@@ -63,18 +63,17 @@
 
 6.3 If a member or applicant for membership:
 
-* fails to comply with any of the provisions of the Constitution;
-
-* has membership fees in arrears;
-
-* violates the Society's Code of Conduct; or
-
+* fails to comply with any of the provisions of the Constitution;  
+* has membership fees in arrears;  
+* violates the Society's Code of Conduct; or  
 * acts in a manner considered to be injurious or prejudicial to the character or interests of the Society
 
 the management committee shall consider whether the member's membership shall be terminated.
 
-6.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.  
-6.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union.  
+6.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.
+
+6.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union. 
+
 6.6 The management committee will give written notice to all members of the society notifying them of any alterations to the Society's Code of Conduct. These alterations will come into effect fourteen (14) days after the written notice is distributed. Any requisition for a Special General Meeting regarding alterations to the Society's Code of Conduct will annul the alterations.
 
 ## 7 Register of Members
