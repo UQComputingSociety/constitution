@@ -1,7 +1,9 @@
 # The Constitution  
 ## University of Queensland Computing Society  
 ## 8th of October 2019
+
 ---
+
 ## 1 Preliminaries
 
 1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”.
@@ -84,7 +86,7 @@ the management committee shall consider whether the member's membership shall be
 
 7.5 No member may hold more than a single position on the Management Committee.
 
-7.6 The number of members of the Management Committee must be less than half the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
+7.6 The number of members of the Management Committee must be less than half (1/2) the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
   
 ## 8 Election of Members to the Management Committee  
 
@@ -94,9 +96,9 @@ the management committee shall consider whether the member's membership shall be
 
 8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.  
 
-8.4 At any General Meeting of the Society, the Members of the Society may resolve to create zero or more of Officers of the Management Committee.  
+8.4 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more of Officers of the Management Committee.  
 
-8.5 At any General Meeting of the Society, the Members of the Society may resolve to create zero or more of Puisne Members of the Management Committee. Except at the Annual General Meeting, all existing Puisne Members shall continue to be members of the Management Committee.  
+8.5 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more of Puisne Members of the Management Committee. Except at the Annual General Meeting, all existing Puisne Members shall continue to be members of the Management Committee.  
 
 8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
 * the President;  
@@ -174,7 +176,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 12.4 A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
-12.5 A meeting of the Management Committee shall be quorate if both half or more of the Officers of Management Committee as at the close of the last General Meeting are present and more than half of the Officers of Management Committee as at the close of the last General Meeting and the Puisne Members currently on the Management Committee combined are present.
+12.5 A meeting of the Management Committee shall be quorate if both half (1/2) or more of the Officers of Management Committee as at the close of the last General Meeting are present and more than half (1/2) of the Officers of Management Committee as at the close of the last General Meeting and the Puisne Members currently on the Management Committee combined are present.
 
 12.6 Questions, matters or resolutions arising at any meeting of the Management Committee shall be decided by a vote, and shall pass with a simple majority.
 
@@ -308,6 +310,8 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 24 Documents
 
-24.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.  
+24.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.
+
 ---
+
 This constitution is enacted on this 8th day of October, 2019.
