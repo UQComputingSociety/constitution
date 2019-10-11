@@ -292,33 +292,37 @@ the membership shall consider at a General Meeting whether that person's members
 
 21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.  
 
-### 23 Funds and Accounts
+## 22 Funds and Accounts
 
-23.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
+22.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate a single account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies Committee.
 
-23.2 Proper books and accounts shall be kept and maintained either in written or printed form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
+22.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
 
-23.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
+22.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
 
-23.4 All amounts shall be paid by cheque signed by any two (2) of the president, secretary, treasurer, or other member authorised from time to time by the management committee and/or the Clubs and Societies Administration Officer.
+22.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Committee.
 
-23.5 Cheques shall be crossed "not negotiable".
+22.5 Cheques shall be crossed “not negotiable”.
 
-23.6 The management committee shall determine the amount of petty cash which shall be kept.
+22.6 The Management Committee shall determine the amount of petty cash that shall be kept.
 
-23.7 All expenditure shall be approved or ratified at a management committee meeting.
+22.7 All expenditure shall be approved or ratified by the Management Committee.
 
-23.8 As soon as practicable after the end of each financial year the treasurer shall cause to be prepared a statement containing the particulars of:
+22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
+* the income and expenditure for the financial year just ended; and  
+* the assets and liabilities at the close of that year.  
+  
+22.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
 
-* the income and expenditure for the financial year just ended
+22.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.
 
-* the assets and liabilities at the close of that year.
+22.11 When the annual incoming during the financial year of the Society total strictly greater than fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by an independent auditor appointed by the Management Committee.
 
-23.9 The accounts of the Society must be audited one (1) month prior to the annual general meeting.
+22.12 The auditor must examine the statement prepared by the Treasurer and report on it to the Secretary before the next Annual General Meeting.
 
-23.10 The auditor must examine the statement prepared by the treasurer and present a report on it to the secretary before the next annual general meeting following the financial year for which the audit was made.
+22.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.
 
-23.11 The income and property of the Society must be used solely in promoting the Society's objectives and exercising the Society's powers.
+22.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.  
 
 ## 24 Dissolution Clause
 
@@ -326,6 +330,6 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 25 Documents
 
-25.1 The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Society.
+25.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.  
 
 This constitution is enacted on this 8th day of October, 2019.
