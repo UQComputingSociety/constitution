@@ -37,14 +37,14 @@
 
 * Any University of Queensland Academic Staff Member
 
-* Any other members of the University or wider community interested in Society's activities
+* Any other members of the University or wider community interested in the Society's activities
 
 
-4.2 The Society shall have not less than:
-* Thirty (30) financial members in the case of a subsidised club
-* Fifteen (15) financial members in the case of a publications club
-* Ten (10) financial members in the case of an Ipswich based club.
-* 70% of the Society's membership must be students.
+4.2 The Society shall have no less than thirty (30) members.
+
+4.3 Seventy percent (70%) of the Society's financial members must be University of Queensland Union members.
+
+4.4 Honorary life membership may be granted to any individual as determined by special resolution at a General Meeting.
 
 ## 5 Membership Fees
 
@@ -289,5 +289,4 @@
 
 25.1 The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Society.
 
-###
 This constitution is enacted on this 8th day of October, 2019.
