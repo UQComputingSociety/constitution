@@ -1,67 +1,54 @@
 # The Constitution  
 ## University of Queensland Computing Society  
-## 8th of October 2019  
-  
-  
-### 1 Preliminaries
+## 8th of October 2019
+---
+## 1 Preliminaries
 
 1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”.
 
 1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.  
 
-
 ## 2 Aims and Objectives
-2.1 The aims of the Society are:
-
-* To provide a fun, social, and inclusive environment for those interested in coding and technology.
-
-* Educate our members through programming competitions, peer-workshops, group projects and other methods.
-
+2.1 The aims of the Society are:  
+* To provide a fun, social, and inclusive environment for those interested in coding and technology.  
+* Educate our members through programming competitions, peer-workshops, group projects and other methods.  
 * Provide and facilitate educational, industry, corporate networking through various events, mixers, and connections.
-
 
 2.2 The assets and income of the Society shall be applied solely in furtherance of its above- mentioned objects and no portion shall be distributed directly or indirectly to the members of the Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Society.
 
-
 2.3 The Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
-## 4 Membership
-4.1 Membership is open to:
-
-* Any student of the University of Queensland
-
-* Any University of Queensland Academic Staff Member
-
+## 3 Membership
+3.1 Membership is open to:  
+* Any student of the University of Queensland  
+* Any University of Queensland Academic Staff Member  
 * Any other members of the University or wider community interested in the Society's activities
 
+3.2 The Society shall have no less than thirty (30) members.
 
-4.2 The Society shall have no less than thirty (30) members.
+3.3 Seventy percent (70%) of the Society's financial members must be University of Queensland Union members.
 
-4.3 Seventy percent (70%) of the Society's financial members must be University of Queensland Union members.
+3.4 Honorary life membership may be granted to any individual as determined by special resolution at a General Meeting.
 
-4.4 Honorary life membership may be granted to any individual as determined by special resolution at a General Meeting.
+## 4 Membership Fees
 
-## 5 Membership Fees
+4.1 The membership fees shall be such sum as the members shall from time to time at any General Meeting so determine, but shall not be less than two dollars ($2) per member per year. Any change in the membership fee shall take effect in the following year of subscription.
 
-5.1 The membership fees shall be such sum as the members shall from time to time at any General Meeting so determine, but shall not be less than two dollars ($2) per member per year. Any change in the membership fee shall take effect in the following year of subscription.
+4.2 The membership fees shall be payable upon joining the Society. The payment of the membership subscription means that the member is considered a financial member of the club for the period of twelve (12) months, from the first day of March of the year of subscription.
 
-5.2 The membership fees shall be payable upon joining the Society. The payment of the membership subscription means that the member is considered a financial member of the club for the period of twelve (12) months, from the first day of March of the year of subscription.
+4.3 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
 
-5.3 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
-
-5.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:
-
+4.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:  
 * the payment method is not cash; and
 * the increase is not more than required to ensure the Society receives the full membership fee, plus a rounding increase of not more than twenty percent (20%) of this cost.
 
-## 6 Termination of Membership
+## 5 Termination of Membership
 
-6.1 A member may resign from the Society at any time by giving notice in writing to the Secretary.
+5.1 A member may resign from the Society at any time by giving notice in writing to the Secretary.
 
-6.2 Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, when it shall take effect on the later date.
+5.2 Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, when it shall take effect on the later date.
 
-6.3 If a member or applicant for membership:
-
+5.3 If a member or applicant for membership:  
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct; or  
@@ -69,19 +56,19 @@
 
 the management committee shall consider whether the member's membership shall be terminated.
 
-6.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.
+5.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.
 
-6.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union. 
+5.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union. 
 
-6.6 The management committee will give written notice to all members of the society notifying them of any alterations to the Society's Code of Conduct. These alterations will come into effect fourteen (14) days after the written notice is distributed. Any requisition for a Special General Meeting regarding alterations to the Society's Code of Conduct will annul the alterations.
+5.6 The management committee will give written notice to all members of the society notifying them of any alterations to the Society's Code of Conduct. These alterations will come into effect fourteen (14) days after the written notice is distributed. Any requisition for a Special General Meeting regarding alterations to the Society's Code of Conduct will annul the alterations.
 
-## 7 Register of Members
+## 6 Register of Members
 
-7.1 The management committee shall cause a register to be kept in which shall be entered the names and student number (if a student) of all persons admitted to membership of the Society and the dates of their admission.
+6.1 The management committee shall cause a register to be kept in which shall be entered the names and student number (if a student) of all persons admitted to membership of the Society and the dates of their admission.
 
-7.2 Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the management committee or the members at any general meeting may require from time to time.
+6.2 Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the management committee or the members at any general meeting may require from time to time.
 
-7.3 The register shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
+6.3 The register shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
 
 ## 7 Membership of Management Committee  
 7.1 The Management Committee of the Society shall consist of:  
@@ -118,7 +105,7 @@ the management committee shall consider whether the member's membership shall be
 * any other Officers of the Management Committee, in the order of creation or re-creation;  
 * the Puisne Members of the Management Committee.  
   
-8.6 The election of Officers and Puisne Members of the Management Committee at a General Meeting shall take place in the following manner:  
+8.7 The election of Officers and Puisne Members of the Management Committee at a General Meeting shall take place in the following manner:  
 * any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or Puisne Member of the Management Committee;  
 * the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place;  
 * at the commencement of the General Meeting, any nominations from the floor will be accepted;  
@@ -168,14 +155,11 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 11 Functions of the Management Committee
 
-11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Society carried at any general meeting the management committee:
-
-* shall have the general control and management of the administration of the affairs and funds of the Society
-
+11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Society carried at any general meeting the management committee:  
+* shall have the general control and management of the administration of the affairs and funds of the Society  
 * shall have authority to interpret the meaning of these rules and any matter relating to the Society on which these rules are silent.
 
-11.2 The management committee may exercise all the power of the Society
-
+11.2 The management committee may exercise all the power of the Society:  
 * to raise or secure the payment of money in such manner as the members of the Society may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by the Society in any way.
 
 11.3 The management committee will take full responsibility for all publications produced by the Society or by any of its members.
@@ -217,7 +201,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 13.8 A subcommittee may resolve to refer a matter to the Management Committee.  
 
-### 14 Resolutions of Management Committee Without Meeting
+## 14 Resolutions of Management Committee Without Meeting
 
 14.1 A flying minute signed by members of the Management Committee shall be as valid as effectual as if it had been voted in favour of by those members at a meeting of the Management Committee duly convened and held and attended by all members of the Management Committee.
 
@@ -225,7 +209,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 14.3 A flying minute may be digitally signed by any method the Management Committee deems appropriate.  
 
-### 15 Timing of Annual General Meetings
+## 15 Timing of Annual General Meetings
 15.1 Each Annual General Meeting of the Society must be held:  
 * at least once each year; and  
 * within three (3) months after the end of the Society's previous financial year.  
@@ -239,25 +223,19 @@ the membership shall consider at a General Meeting whether that person's members
 * the presenting of the audited statement to the meeting for adoption; and  
 * the election of members of the Management Committee.  
 
-## 18 Special General Meeting
+## 17 Special General Meeting
 
-18.1 The secretary shall convene a special general meeting by sending out notice of
-
-1. the meeting within fourteen (14) days of:
-
-    * being directed to do so by the management committee
-
-    * being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1)
-
-    * being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person
-
-    * A requisition mentioned in subsection 18(a) shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
+17.1 The secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
+* being directed to do so by the management committee  
+* being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1)  
+* being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person  
+* A requisition mentioned in subsection 18(a) shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
 ## 18 Quorum at General Meeting
 
 18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society (&#8730;(125+n)).  
 
-### 19 Notice of General Meeting
+## 19 Notice of General Meeting
 
 19.1 The Secretary shall convene General Meeting of the Society by giving no less than fourteen (14) days notice of any such meetings to the members of the Society.
 
@@ -276,7 +254,7 @@ the membership shall consider at a General Meeting whether that person's members
 * proxies that follow the University of Queensland Union regulations will be allowed; and  
 * proxies that follow a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting will be allowed.
 
-### 21 Alteration of Rules
+## 21 Alteration of Rules
 
 21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.
 
@@ -324,12 +302,12 @@ the membership shall consider at a General Meeting whether that person's members
 
 22.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.  
 
-## 24 Dissolution Clause
+## 23 Dissolution Clause
 
-24.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
+23.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
 
-## 25 Documents
+## 24 Documents
 
-25.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.  
-
+24.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.  
+---
 This constitution is enacted on this 8th day of October, 2019.
