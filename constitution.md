@@ -54,11 +54,11 @@
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct; or  
-* acts in a manner considered to be injurious or prejudicial to the character or interests of the Society
+* acts in a manner considered to be injurious or prejudicial to the character or interests of the Society,
 
 the management committee shall consider whether the member's membership shall be terminated.
 
-5.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership the Secretary shall advise that person in writing accordingly.
+5.4 That person concerned shall be given a full and fair opportunity to explain matters and if the Management Committee resolves to terminate or reject that person's membership, the Secretary shall advise that person in writing accordingly.
 
 5.5 Upon terminating the membership of a University of Queensland student, the Management Committee shall submit justification of the termination to the University of Queensland Union. 
 
@@ -230,8 +230,9 @@ the membership shall consider at a General Meeting whether that person's members
 17.1 The secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
 * being directed to do so by the management committee  
 * being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1)  
-* being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person  
-* A requisition mentioned in subsection 18(a) shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
+* being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person
+
+17.2 A requisition shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
 ## 18 Quorum at General Meeting
 
