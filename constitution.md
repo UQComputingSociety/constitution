@@ -16,7 +16,7 @@
 ## 2 Aims and Objectives
 2.1 The aims of the Society are:
 
-* To provide a fun, social and challenging environment for students interested in coding and technology.
+* To provide a fun, social, and inclusive environment for those interested in coding and technology.
 
 * Educate our members through programming competitions, peer-workshops, group projects and other methods.
 
