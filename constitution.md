@@ -93,16 +93,20 @@
 3. nominations from the floor of the annual general meeting will be accepted
 
 ## 9 Resignation or Removal from Office of Membership of Management Committee  
-9.1 Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary. Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, where it shall take effect on that later date.  
-9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.  
+9.1 Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary. Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, where it shall take effect on that later date.
+
+9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.
+
 9.3 If a member of the Management Committee:  
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct;  
 * acts in a manner considered to be injurious or prejudicial to the character or interests of the Society  
   
-the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.  
-9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.  
+the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
+
+9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
+
 9.5 There is no right of appeal against a member's removal from the Management Committee under this section.
 
 ## 10 Vacancies on Management Committee
