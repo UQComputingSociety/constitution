@@ -1,32 +1,29 @@
-# Schedule Fourteen - The Constitution of the University of Queensland Computing Society
+# The Constitution  
+## University of Queensland Computing Society  
+## 8th of October 2019  
+  
+  
+### 1 Preliminaries
 
-**Constitution - Affiliated Bodies**
+1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”.
 
-**Version 1.3**
-
-**13 October 2016**
-
-
-## 1 Name
-1.1 The Club/Society shall be called: University of Queensland Computing Society
-
-1.1 The Club/Society shall be an associated body of the University of Queensland Union in the category of General.
+1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.  
 
 
 ## 2 Aims and Objectives
 2.1 The aims of the Society are:
 
-* To provide a fun, social and challenging environment for students interested in coding and technology.
+* To provide a fun, social, and inclusive environment for those interested in coding and technology.
 
 * Educate our members through programming competitions, peer-workshops, group projects and other methods.
 
 * Provide and facilitate educational, industry, corporate networking through various events, mixers, and connections.
 
 
-2.2 The assets and income of the Club/Society shall be applied solely in furtherance of its above- mentioned objects and no portion shall be distributed directly or indirectly to the members of the Club/Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Club/Society.
+2.2 The assets and income of the Society shall be applied solely in furtherance of its above- mentioned objects and no portion shall be distributed directly or indirectly to the members of the Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Society.
 
 
-2.3 The Club/Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
+2.3 The Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
 ## 3 Interpretation
 3.1 In this Constitution, unless the contrary intention appears:
@@ -40,20 +37,27 @@
 
 * Any University of Queensland Academic Staff Member
 
-* Any other members of the University or wider community interested in Club/Society's activities
+* Any other members of the University or wider community interested in the Society's activities
 
 
-4.2 The Club/Society shall have not less than:
-* Thirty (30) financial members in the case of a subsidised club
-* Fifteen (15) financial members in the case of a publications club
-* Ten (10) financial members in the case of an Ipswich based club.
-* 70% of the Club/Society's membership must be students.
+4.2 The Society shall have no less than thirty (30) members.
+
+4.3 Seventy percent (70%) of the Society's financial members must be University of Queensland Union members.
+
+4.4 Honorary life membership may be granted to any individual as determined by special resolution at a General Meeting.
 
 ## 5 Membership Fees
 
-5.1 The membership fees shall be such sum, as the members and/or management committee shall from time to time so determine, but shall not be less than the minimum amount set by the University of Queensland Union.
+5.1 The membership fees shall be such sum as the members shall from time to time at any General Meeting so determine, but shall not be less than two dollars ($2) per member per year. Any change in the membership fee shall take effect in the following year of subscription.
 
-5.2 The membership fees shall be payable upon joining the Club/Society.
+5.2 The membership fees shall be payable upon joining the Society. The payment of the membership subscription means that the member is considered a financial member of the club for the period of twelve (12) months, from the first day of March of the year of subscription.
+
+5.3 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
+
+5.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:
+
+* the payment method is not cash; and
+* the increase is not more than required to ensure the Society receives the full membership fee, plus a rounding increase of not more than twenty percent (20%) of this cost.
 
 ## 6 Termination of Membership
 
@@ -78,7 +82,7 @@ the management committee shall consider whether the member's membership shall be
 
 ## 7 Register of Members
 
-7.1 The management committee shall cause a register to be kept in which shall be entered the names and student number (if a student) of all persons admitted to membership of the Club/Society and the dates of their admission.
+7.1 The management committee shall cause a register to be kept in which shall be entered the names and student number (if a student) of all persons admitted to membership of the Society and the dates of their admission.
 
 7.2 Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the management committee or the members at any general meeting may require from time to time.
 
@@ -86,20 +90,20 @@ the management committee shall consider whether the member's membership shall be
 
 ## 8 Membership of Management Committee
 
-8.1 The management committee of the Club/Society shall consist of a president, secretary, and treasurer, all of whom shall be members of the Club/Society, and such number of other members as the members of the Club/Society at any general meeting may from time to time elect. All the aforestated office bearers must be members of the Union. Membership of the management committee shall not be restricted other than by being a member of the University of Queensland Union.
+8.1 The management committee of the Society shall consist of a president, secretary, and treasurer, all of whom shall be members of the Society, and such number of other members as the members of the Society at any general meeting may from time to time elect. All the aforestated office bearers must be members of the Union. Membership of the management committee shall not be restricted other than by being a member of the University of Queensland Union.
 
-8.2 At the annual general meeting of the Club/Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
+8.2 At the annual general meeting of the Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
 8.3 The election of officers and other members of the management committee shall take place in the following manner:
 
-1. any two (2) members[a] of the Club/Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
+1. any two (2) members[a] of the Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
 
 2. the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary before the annual general meeting at which the election is to take place.
 3. nominations from the floor of the annual general meeting will be accepted
 
 ## 9 Resignation or Removal from office of Member of Management Committee
 
-9.1 Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society where that member shall be given the opportunity to fully present the member's case.
+9.1 Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Society where that member shall be given the opportunity to fully present the member's case.
 
 9.2 The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
 
@@ -107,23 +111,23 @@ the management committee shall consider whether the member's membership shall be
 
 ## 10 Vacancies on Management Committee
 
-10.1 The management committee shall have power at any time to appoint any member of the Club/Society to fill any casual vacancy on the management committee until the next annual general meeting.
+10.1 The management committee shall have power at any time to appoint any member of the Society to fill any casual vacancy on the management committee until the next annual general meeting.
 
 10.2 The continuing members of the management committee may act notwithstanding any casual vacancy in the management committee, however if their number is reduced below the number fixed as is necessary for quorum of the management committee, the continuing member or members may act for the purpose of increasing the number of members of the management committee to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
 
 ## 11 Functions of the Management Committee
 
-11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Club/Society carried at any general meeting the management committee:
+11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Society carried at any general meeting the management committee:
 
-* shall have the general control and management of the administration of the affairs and funds of the Club/Society
+* shall have the general control and management of the administration of the affairs and funds of the Society
 
-* shall have authority to interpret the meaning of these rules and any matter relating to the Club/Society on which these rules are silent.
+* shall have authority to interpret the meaning of these rules and any matter relating to the Society on which these rules are silent.
 
-11.2 The management committee may exercise all the power of the Club/Society
+11.2 The management committee may exercise all the power of the Society
 
-* to raise or secure the payment of money in such manner as the members of the Club/Society may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by the Club/Society in any way.
+* to raise or secure the payment of money in such manner as the members of the Society may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by the Society in any way.
 
-11.3 The management committee will take full responsibility for all publications produced by the Club/Society or by any of its members.
+11.3 The management committee will take full responsibility for all publications produced by the Society or by any of its members.
 
 ## 12 Meetings of Management Committee
 
@@ -175,7 +179,7 @@ the management committee shall consider whether the member's membership shall be
 
 ## 15  First Annual General Meeting
 
-15.1 The first annual general meeting must be held within twelve (12) months after the day the Club/Society is fully affiliated.
+15.1 The first annual general meeting must be held within twelve (12) months after the day the Society is fully affiliated.
 
 ## 16 Subsequent Annual General Meetings
 
@@ -183,7 +187,7 @@ the management committee shall consider whether the member's membership shall be
 
 * at least once each year
 
-* within three (3) months after the end of the Club/Society's previous financial year.
+* within three (3) months after the end of the Society's previous financial year.
 
 ## 17 Business to be Transacted at Annual General Meeting
 
@@ -193,13 +197,13 @@ the management committee shall consider whether the member's membership shall be
 
 * the receiving of reports from the president and the secretary
 
-* the receiving of the auditor's report on the financial affairs of the Club/Society for the last financial year
+* the receiving of the auditor's report on the financial affairs of the Society for the last financial year
 
 * the presenting of the audited statement to the meeting for adoption
 
 * the election of members of the management committee
 
-* the appointment of an auditor who shall be the nominee of the Union for Club/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies
+* the appointment of an auditor who shall be the nominee of the Union for Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies
 
 * the minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the annual general meeting
 
@@ -225,7 +229,7 @@ the management committee shall consider whether the member's membership shall be
 
 ## 20 Notice of General Meeting
 
-20.1 The secretary shall convene at least one general meeting per semester of the Club/Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Club/Society.
+20.1 The secretary shall convene at least one general meeting per semester of the Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Society.
 
 20.2 The manner by which such notice shall be given shall be determined by the management committee.
 
@@ -251,21 +255,21 @@ the management committee shall consider whether the member's membership shall be
 
 22.3 A special resolution is passed at a meeting if:
 
-* of the entitled members of the Club/Society who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three quarters (3/4) vote in favour of the resolution; and
+* of the entitled members of the Society who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three quarters (3/4) vote in favour of the resolution; and
 
 * any additional requirements of the constitution relating to the passing of a special resolution have been met.
 
-22.3 A resolution is not to be considered to have been passed as a special resolution under sub-section (2) unless not less than twenty-one (21) days notice has been given in accordance with the rules to all of the entitled members of the Club/Society specifying the intention to propose the resolution as a special resolution.
+22.3 A resolution is not to be considered to have been passed as a special resolution under sub-section (2) unless not less than twenty-one (21) days notice has been given in accordance with the rules to all of the entitled members of the Society specifying the intention to propose the resolution as a special resolution.
 
 22.4 At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
 
-22.5 In this section "entitled member" means a member of the Club/Society who is entitled under the rules of the association to vote.
+22.5 In this section "entitled member" means a member of the Society who is entitled under the rules of the association to vote.
 
 ### 23 Funds and Accounts
 
-23.1 The funds of the Club/Society must be kept in the name of the Club/Society in the University branch of the Commonwealth Bank. The Club/Society shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
+23.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
 
-23.2 Proper books and accounts shall be kept and maintained either in written or printed form in the English language showing correctly the financial affairs of the Club/Society and the particulars usually shown in books of a like nature.
+23.2 Proper books and accounts shall be kept and maintained either in written or printed form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
 
 23.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
 
@@ -283,18 +287,18 @@ the management committee shall consider whether the member's membership shall be
 
 * the assets and liabilities at the close of that year.
 
-23.9 The accounts of the Club/Society must be audited one (1) month prior to the annual general meeting.
+23.9 The accounts of the Society must be audited one (1) month prior to the annual general meeting.
 
 23.10 The auditor must examine the statement prepared by the treasurer and present a report on it to the secretary before the next annual general meeting following the financial year for which the audit was made.
 
-23.11 The income and property of the Club/Society must be used solely in promoting the Club/Society's objectives and exercising the Club/Society's powers.
+23.11 The income and property of the Society must be used solely in promoting the Society's objectives and exercising the Society's powers.
 
 ## 24 Dissolution Clause
 
-24.1 In the event of the Club/Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
+24.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
 
 ## 25 Documents
 
-25.1 The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Club/Society.
+25.1 The management committee shall provide for the safe custody of books, documents, instruments of title and securities of the Society.
 
-The constitution is enacted on this 13th day of October 2016.
+This constitution is enacted on this 8th day of October, 2019.
