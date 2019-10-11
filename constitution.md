@@ -85,15 +85,20 @@
 * zero (0) or more other Officers of the Management Committee; and  
 * zero (0) or more Puisne Members of the Management Committee.  
   
-7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.  
-7.3 Each Officer of the Management Committee shall be one (1) member of the society.  
-7.4 The Puisne Members of the Management Committee shall be shared among several members of the Society.  
-7.5 No member may hold more than a single position on the Management Committee.  
+7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.
+
+7.3 Each Officer of the Management Committee shall be one (1) member of the society.
+
+7.4 The Puisne Members of the Management Committee shall be shared among several members of the Society.
+
+7.5 No member may hold more than a single position on the Management Committee.
+
 7.6 The number of members of the Management Committee must be less than half the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.  
   
 ## 8 Election of Members to the Management Committee  
 
-8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re-election.  
+8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re-election.
+
 8.2 The Society must elect a President, Secretary, and Treasurer at the Annual General Meeting.  
 
 8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.  
