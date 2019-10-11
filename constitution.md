@@ -142,13 +142,22 @@ the management committee shall consider whether the member's membership shall be
 * the nominee will be elected as a Puisne Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
-## 9 Resignation or Removal from office of Member of Management Committee
+## 9 Resignation or Removal from Office of Membership of Management Committee  
+9.1 Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary. Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, where it shall take effect on that later date.
 
-9.1 Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Society where that member shall be given the opportunity to fully present the member's case.
+9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.
 
-9.2 The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+9.3 If a member of the Management Committee:  
+* fails to comply with any of the provisions of the Constitution;  
+* has membership fees in arrears;  
+* violates the Society's Code of Conduct;  
+* acts in a manner considered to be injurious or prejudicial to the character or interests of the Society  
+  
+the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
 
-9.3 There is no right of appeal against a member's removal from office under this section.
+9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
+
+9.5 There is no right of appeal against a member's removal from the Management Committee under this section.
 
 ## 10 Vacancies on Management Committee
 
