@@ -3,8 +3,10 @@
 ## 8th of October 2019  
   
   
-### 1 Preliminaries  
-1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”  
+### 1 Preliminaries
+
+1.1 The Society shall be called “University of Queensland Computing Society”, hereafter referred to as “the Society”.
+
 1.2 The Society shall be an associated body of the University of Queensland Union in the category of General Society.  
 
 
