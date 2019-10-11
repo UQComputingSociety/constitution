@@ -122,14 +122,22 @@
 
 ## 12 Meetings of Management Committee
 
-12.1 The Management Committee shall meet together and regulate its proceedings as required to exercise its functions.  
-12.2 Meetings of the Management Committee shall be called by any member of the Management Committee with seven (7) days notice. Such notice shall clearly state the reasons why said meeting is being convened, the nature of the business to be discussed thereat, and the date, time and place of the meeting.  
-12.3 The Secretary (or nominee for the meeting) must keep an accurate record of resolutions passed at all Management Committee meetings.  
-12.4 A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.  
-12.5 A meeting of the Management Committee shall be quorate if both half or more of the Officers of Management Committee as at the close of the last General Meeting are present and more than half of the Officers of Management Committee as at the close of the last General Meeting and the Puisne Members currently on the Management Committee combined are present.  
-12.6 Questions, matters or resolutions arising at any meeting of the Management Committee shall be decided by a vote, and shall pass with a simple majority.  
-12.7 A member of the Management Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote that member's vote shall not be counted.  
-12.8 The President (or nominee for the meeting) shall preside as chairperson at every meeting of the Management Committee. If there is no President, or if at any meeting the President is no present within ten (10) minutes after the time appointed for holding the meeting, or if the President has advised the Secretary or other members of the Management Committee of an inability to attend the meeting, or if the President is unwilling to act, then the members of the Management Committee may choose any member of the Management Committee to be chairperson of the meeting.  
+12.1 The Management Committee shall meet together and regulate its proceedings as required to exercise its functions.
+
+12.2 Meetings of the Management Committee shall be called by any member of the Management Committee with seven (7) days notice. Such notice shall clearly state the reasons why said meeting is being convened, the nature of the business to be discussed thereat, and the date, time and place of the meeting.
+
+12.3 The Secretary (or nominee for the meeting) must keep an accurate record of resolutions passed at all Management Committee meetings.
+
+12.4 A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
+
+12.5 A meeting of the Management Committee shall be quorate if both half or more of the Officers of Management Committee as at the close of the last General Meeting are present and more than half of the Officers of Management Committee as at the close of the last General Meeting and the Puisne Members currently on the Management Committee combined are present.
+
+12.6 Questions, matters or resolutions arising at any meeting of the Management Committee shall be decided by a vote, and shall pass with a simple majority.
+
+12.7 A member of the Management Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote that member's vote shall not be counted.
+
+12.8 The President (or nominee for the meeting) shall preside as chairperson at every meeting of the Management Committee. If there is no President, or if at any meeting the President is no present within ten (10) minutes after the time appointed for holding the meeting, or if the President has advised the Secretary or other members of the Management Committee of an inability to attend the meeting, or if the President is unwilling to act, then the members of the Management Committee may choose any member of the Management Committee to be chairperson of the meeting.
+
 12.9 If within thirty (30) minutes from the time appointed for the commencement of a Management Committee meeting a quorum is not present, the meeting shall lapse.  
 
 ## 13 Delegation of Powers of Management Committee
