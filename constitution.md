@@ -225,17 +225,10 @@ the membership shall consider at a General Meeting whether that person's members
 
 14.3 A flying minute may be digitally signed by any method the Management Committee deems appropriate.  
 
-## 15  First Annual General Meeting
-
-15.1 The first annual general meeting must be held within twelve (12) months after the day the Society is fully affiliated.
-
-## 16 Subsequent Annual General Meetings
-
-16.1. Each subsequent annual general meeting must be held:
-
-* at least once each year
-
-* within three (3) months after the end of the Society's previous financial year.
+### 15 Timing of Annual General Meetings
+15.1 Each Annual General Meeting of the Society must be held:  
+* at least once each year; and  
+* within three (3) months after the end of the Society's previous financial year.  
 
 ## 17 Business to be Transacted at Annual General Meeting
 
