@@ -95,9 +95,12 @@
 - Secretary: Matthew Low
 - Treasurer: Bradley Stone
 - Puisne Committee:
+  - Alexander Blyth
   - Sannidhi Bosamia
   - Jack Caperon
+  - Paul Clarke
   - James Copperthwaite
+  - James Dearlove
   - Kenton Lam
   - Nicholas Lambourne
   - Olivia Mackenzie-Ross
