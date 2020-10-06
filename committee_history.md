@@ -106,3 +106,17 @@
   - Olivia Mackenzie-Ross
   - Raghav Mishra
   - Brian Riwu Kaho
+
+## 2021
+- President: James Dearlove
+- Secretary: Sanni Bosamia
+- Treasurer: Kenton Lam
+- Puisne Committee:
+  - Sylvia Chen
+  - Paul Clarke
+  - Tom Cranitch
+  - Darren Fu
+  - Madhav Kumar
+  - Matt Low
+  - Olivia MacKenzie-Ross
+  - Utkarsh Sharma
