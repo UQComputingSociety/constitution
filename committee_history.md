@@ -41,12 +41,12 @@
 - President: Peter Phillpotts
 - Vice-President: Declan Haigh
 - Secretary: Crystal Chua
-- Treasurer: Tom Manderson
+- Treasurer: Taylor Manderson
 - General Committee:
   - Randall Fernando
 
 ## 2016
-- President: Tom Manderson
+- President: Taylor Manderson
 - Vice-President: Mitchell Grice
 - Secretary: Simon Victory
 - Treasurer: Catherine Shield
@@ -57,7 +57,7 @@
   - Ainsley Nand
 
 ## 2017
-- President: Tom Manderson
+- President: Taylor Manderson
 - Secretary: Dragan Marjanovic
 - Secretary: Cameron Aavik
 - Treasurer: Catherine Shield
@@ -74,7 +74,7 @@
 - General Committee:
   - Neil Ashford
   - Harry Guthrie
-  - Tom Manderson
+  - Taylor Manderson (Resigned)
   - Mitch McDermott
   - Tom Richardson
 
@@ -95,17 +95,17 @@
 - Secretary: Matthew Low
 - Treasurer: Bradley Stone
 - Puisne Committee:
-  - Alexander Blyth
+  - Alexander Blyth (Elected: SGM 03/05/2020)
   - Sannidhi Bosamia
-  - Jack Caperon
-  - Paul Clarke
+  - Jack Caperon (Resigned: SGM 03/05/2020)
+  - Paul Clarke (Elected: SGM 03/05/2020)
   - James Copperthwaite
-  - James Dearlove
+  - James Dearlove (Elected: SGM 03/05/2020)
   - Kenton Lam
   - Nicholas Lambourne
   - Olivia Mackenzie-Ross
-  - Raghav Mishra
-  - Brian Riwu Kaho
+  - Raghav Mishra (Resigned: SGM 03/05/2020)
+  - Brian Riwu Kaho (Resigned: SGM 03/05/2020)
 
 ## 2021
 - President: James Dearlove
