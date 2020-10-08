@@ -59,7 +59,6 @@
 ## 2017
 - President: Taylor Manderson
 - Secretary: Dragan Marjanovic
-- Secretary: Cameron Aavik
 - Treasurer: Catherine Shield
 - General Committee:
   - Cameron Aavik
