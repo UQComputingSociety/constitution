@@ -51,14 +51,15 @@
 - Secretary: Simon Victory
 - Treasurer: Catherine Shield
 - General Committee:
-  - Cameron Aavik
-  - Rachel Catchpoole
+  - Cameron Aavik (Elected: SGM)
+  - Rachel Catchpoole (Resigned: SGM)
   - Dragan Marjanovic
   - Ainsley Nand
 
 ## 2017
 - President: Taylor Manderson
-- Secretary: Dragan Marjanovic
+- Secretary: Dragan Marjanovic (Resigned)
+- Secretary: Cameron Aavik (Partial Term)
 - Treasurer: Catherine Shield
 - General Committee:
   - Cameron Aavik
