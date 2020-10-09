@@ -51,15 +51,15 @@
 - Secretary: Simon Victory
 - Treasurer: Catherine Shield
 - General Committee:
-  - Cameron Aavik (SGM ? ? 2016)
-  - Rachel Catchpoole (Resigned)
+  - Cameron Aavik - Elected by SGM
+  - Rachel Catchpoole - Resigned
   - Dragan Marjanovic
   - Ainsley Nand
 
 ## 2017
 - President: Taylor Manderson
-- Secretary: Dragan Marjanovic (Resigned)
-- Secretary: Cameron Aavik (Partial Term)
+- Secretary: Dragan Marjanovic - Resigned
+- Secretary: Cameron Aavik - Elected by SGM
 - Treasurer: Catherine Shield
 - General Committee:
   - Cameron Aavik
@@ -74,7 +74,7 @@
 - General Committee:
   - Neil Ashford
   - Harry Guthrie
-  - Taylor Manderson (Resigned)
+  - Taylor Manderson - Resigned
   - Mitch McDermott
   - Tom Richardson
 
@@ -95,17 +95,17 @@
 - Secretary: Matthew Low
 - Treasurer: Bradley Stone
 - Puisne Committee:
-  - Alexander Blyth (SGM 3 May 2020)
+  - Alexander Blyth - Elected by SGM 03-05-20
   - Sannidhi Bosamia
-  - Jack Caperon (Resigned)
-  - Paul Clarke (SGM 3 May 2020)
+  - Jack Caperon - Resigned 03-05-20
+  - Paul Clarke - Elected by SGM 03-05-20
   - James Copperthwaite
-  - James Dearlove (SGM 3 May 2020)
+  - James Dearlove - Elected by SGM 03-05-20
   - Kenton Lam
   - Nicholas Lambourne
   - Olivia Mackenzie-Ross
-  - Raghav Mishra (Resigned)
-  - Brian Riwu Kaho (Resigned)
+  - Raghav Mishra - Resigned 03-05-20
+  - Brian Riwu Kaho - Resigned 03-05-20
 
 ## 2021
 - President: James Dearlove
