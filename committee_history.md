@@ -95,17 +95,17 @@
 - Secretary: Matthew Low
 - Treasurer: Bradley Stone
 - Puisne Committee:
-  - Alexander Blyth (Elected: SGM 03/05/2020)
+  - Alexander Blyth (SGM 3rd May 2020)
   - Sannidhi Bosamia
-  - Jack Caperon (Resigned: SGM 03/05/2020)
-  - Paul Clarke (Elected: SGM 03/05/2020)
+  - Jack Caperon (Resigned)
+  - Paul Clarke (SGM 03/05/2020)
   - James Copperthwaite
-  - James Dearlove (Elected: SGM 03/05/2020)
+  - James Dearlove (SGM 03/05/2020)
   - Kenton Lam
   - Nicholas Lambourne
   - Olivia Mackenzie-Ross
-  - Raghav Mishra (Resigned: SGM 03/05/2020)
-  - Brian Riwu Kaho (Resigned: SGM 03/05/2020)
+  - Raghav Mishra (Resigned)
+  - Brian Riwu Kaho (Resigned)
 
 ## 2021
 - President: James Dearlove
