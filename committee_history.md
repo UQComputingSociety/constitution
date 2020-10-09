@@ -51,8 +51,8 @@
 - Secretary: Simon Victory
 - Treasurer: Catherine Shield
 - General Committee:
-  - Cameron Aavik (Elected: SGM)
-  - Rachel Catchpoole (Resigned: SGM)
+  - Cameron Aavik (SGM ? ? 2016)
+  - Rachel Catchpoole (Resigned)
   - Dragan Marjanovic
   - Ainsley Nand
 
