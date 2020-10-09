@@ -128,7 +128,7 @@ the management committee shall consider whether the member's membership shall be
 * in the case of a third tie between the same candidates, the winner shall be determined by sortition; and  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
-8.7 The election of Puisne Members of the Management Committee without a General Meeting shall take place in the following manner:  
+8.8 The election of Puisne Members of the Management Committee without a General Meeting shall take place in the following manner:  
 * the Management Committee shall be at liberty to nominate any member of the Society to serve as a Puisne Member of the Management Committee;  
 * the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
 * the members of the Society shall have no less than seven (7) days to cast their vote;  
