@@ -95,12 +95,12 @@
 - Secretary: Matthew Low
 - Treasurer: Bradley Stone
 - Puisne Committee:
-  - Alexander Blyth (SGM 3rd May 2020)
+  - Alexander Blyth (SGM 3 May 2020)
   - Sannidhi Bosamia
   - Jack Caperon (Resigned)
-  - Paul Clarke (SGM 03/05/2020)
+  - Paul Clarke (SGM 3 May 2020)
   - James Copperthwaite
-  - James Dearlove (SGM 03/05/2020)
+  - James Dearlove (SGM 3 May 2020)
   - Kenton Lam
   - Nicholas Lambourne
   - Olivia Mackenzie-Ross
