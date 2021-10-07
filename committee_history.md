@@ -120,3 +120,15 @@
   - Matt Low
   - Olivia MacKenzie-Ross
   - Utkarsh Sharma
+
+## 2022
+- President: Tom Malcolm
+- Secretary: Limao Chang
+- Treasurer: Andrew Brown
+- Puisne Committee:
+  - Rachel Chiong
+  - Tom Cranitch
+  - Campbel McFadden
+  - Madhav Mishra
+  - Alex Nicholson
+  - Linden Wells
