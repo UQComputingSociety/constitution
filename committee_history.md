@@ -122,7 +122,7 @@
   - Utkarsh Sharma
 
 ## 2022
-- President: Tom Malcom
+- President: Tom Malcolm
 - Secretary: Limao Chang
 - Treasurer: Andrew Brown
 - Puisne Committee:
