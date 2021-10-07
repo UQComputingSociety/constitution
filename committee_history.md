@@ -118,7 +118,7 @@
   - Darren Fu
   - Madhav Kumar
   - Matthew Low
-  - Olivia MacKenzie-Ross
+  - Olivia Mackenzie-Ross
   - Utkarsh Sharma
 
 ## 2022
