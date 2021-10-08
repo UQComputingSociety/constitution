@@ -117,8 +117,8 @@
   - Tom Cranitch
   - Darren Fu
   - Madhav Kumar
-  - Matt Low
-  - Olivia MacKenzie-Ross
+  - Matthew Low
+  - Olivia Mackenzie-Ross
   - Utkarsh Sharma
 
 ## 2022
@@ -128,7 +128,7 @@
 - Puisne Committee:
   - Rachel Chiong
   - Tom Cranitch
-  - Campbel McFadden
+  - Campbell McFadden
   - Madhav Mishra
   - Alex Nicholson
   - Linden Wells
