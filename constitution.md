@@ -156,11 +156,13 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 10 Vacancies on Management Committee
 
-10.1 The Management Committee shall have the power at any time to appoint any member of the Society to fill the casual vacancy of any Officer on the Management Committee until the next Annual General Meeting.
+10.1 The Management Committee shall have the power at any time to appoint any member of the Society to fill the casual vacancy of any Officer or Puisne Member on the Management Committee until the next General Meeting.
 
-10.2 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.
+10.2 In cases where an appointment to the Management Committee is made by the members of the Management Committee, a General Meeting (in the case of vacanct Puisne Member positions, a vote without General Meeting per section 8.8 is also permitted) shall be held at the next available opportunity for the members to vote on the appointment. This vote should afford no special preference to the appointee, and other Members of the Society will be able to nominate for the position in the same manner as any other General Meeting.
 
-10.3 The resignation or removal of a Puisne Member does not create a casual vacancy on the Management Committee.
+10.3 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.
+
+10.4 The removal of a member of the Management Committee does not create a casual vacancy.
 
 ## 11 Functions of the Management Committee
 
