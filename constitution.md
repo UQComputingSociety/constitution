@@ -181,7 +181,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 12.4 A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
-12.5 A meeting of the Management Committee shall be quorate if both half (1/2) or more of the Officers of Management Committee as at the close of the last General Meeting are present and more than half (1/2) of the Officers of Management Committee as at the close of the last General Meeting and the General Members currently on the Management Committee combined are present.
+12.5 A meeting of the Management Committee shall be quorate if both half (1/2) or more of the Officers of Management Committee as at the close of the last General Meeting are present, and half (1/2) or more of the total number of all members of the Management Committee are present.
 
 12.6 Questions, matters or resolutions arising at any meeting of the Management Committee shall be decided by a vote, and shall pass with a simple majority.
 
