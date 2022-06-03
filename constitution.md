@@ -317,7 +317,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 23 Dissolution Clause
 
-23.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
+23.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association or associations with similar purposes, which are not carried on for the profit or gain of their individual members, and preferring associations targeted primarily towards students of the University of Queensland.
 
 ## 24 Documents
 
