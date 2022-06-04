@@ -125,10 +125,13 @@
 - President: Tom Malcolm
 - Secretary: Limao Chang
 - Treasurer: Andrew Brown
-- Puisne Committee:
+- Puisne Committee (renamed General Committee at SGM 19-5-22):
   - Rachel Chiong
-  - Tom Cranitch
+  - Tom Cranitch - Resigned 31-01-22
+  - Leslie Goh Tze Xuan - Elected by SGM 19-05-22
+  - Yiwen Jiang - Elected by SGM 19-05-22
   - Campbell McFadden
-  - Madhav Mishra
+  - Madhav Mishra - Resigned 19-05-22
   - Alex Nicholson
-  - Linden Wells
+  - Treffery Webb - Elected by SGM 19-05-22
+  - Linden Wells - Resigned 19-05-22
