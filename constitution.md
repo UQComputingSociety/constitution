@@ -14,9 +14,9 @@
 
 ## 2 Aims and Objectives
 
-2.1 The aims of the Society are:  
-* To provide a fun, social, and inclusive environment for those interested in coding and technology.  
-* Educate our members through programming competitions, peer-workshops, group projects and other methods.  
+2.1 The aims of the Society are:
+* To provide a fun, social, and inclusive environment for those interested in coding and technology.
+* Educate our members through programming competitions, peer-workshops, group projects and other methods.
 * Provide and facilitate educational, industry, corporate networking through various events, mixers, and connections.
 
 2.2 The assets and income of the Society shall be applied solely in furtherance of its above- mentioned objects and no portion shall be distributed directly or indirectly to the members of the Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Society.
@@ -25,9 +25,9 @@
 
 ## 3 Membership
 
-3.1 Membership is open to:  
-* Any student of the University of Queensland  
-* Any University of Queensland Academic Staff Member  
+3.1 Membership is open to:
+* Any student of the University of Queensland
+* Any University of Queensland Academic Staff Member
 * Any other members of the University or wider community interested in the Society's activities
 
 3.2 The Society shall have no less than thirty (30) members.
@@ -44,7 +44,7 @@
 
 4.3 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
 
-4.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:  
+4.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:
 * the payment method is not cash; and
 * the increase is not more than required to ensure the Society receives the full membership fee, plus a rounding increase of not more than twenty percent (20%) of this cost.
 
@@ -54,10 +54,10 @@
 
 5.2 Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, when it shall take effect on the later date.
 
-5.3 If a member or applicant for membership:  
-* fails to comply with any of the provisions of the Constitution;  
-* has membership fees in arrears;  
-* violates the Society's Code of Conduct; or  
+5.3 If a member or applicant for membership:
+* fails to comply with any of the provisions of the Constitution;
+* has membership fees in arrears;
+* violates the Society's Code of Conduct; or
 * acts in a manner considered to be injurious or prejudicial to the character or interests of the Society,
 
 the management committee shall consider whether the member's membership shall be terminated.
@@ -78,9 +78,9 @@ the management committee shall consider whether the member's membership shall be
 
 ## 7 Membership of Management Committee
 
-7.1 The Management Committee of the Society shall consist of:  
-* a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Officers of the Management Committee;  
-* zero (0) or more other Officers of the Management Committee; and  
+7.1 The Management Committee of the Society shall consist of:
+* a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Officers of the Management Committee;
+* zero (0) or more other Officers of the Management Committee; and
 * zero (0) or more General Members of the Management Committee.
 
 7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.
@@ -103,35 +103,35 @@ the management committee shall consider whether the member's membership shall be
 
 8.5 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more new positions for General Members of the Management Committee. Except at the Annual General Meeting, all existing General Members of the Management Committee shall continue to be members of the Management Committee
 
-8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
-* the President;  
-* the Secretary;  
-* the Treasurer;  
-* any other Officers of the Management Committee, in the order of creation or re-creation;  
+8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:
+* the President;
+* the Secretary;
+* the Treasurer;
+* any other Officers of the Management Committee, in the order of creation or re-creation;
 * all General Members of the Management Committee.
 
-8.7 The election of Officers and General Members of the Management Committee at a General Meeting shall take place in the following manner:  
-* any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or General Member of the Management Committee;  
-* the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place;  
-* at the commencement of the General Meeting, any nominations from the floor will be accepted;  
-* if in any election the number of candidates nominated for a position is fewer than or equal to the number of vacancies for that position, those candidates shall be elected unopposed without putting the matter to a vote;  
-* balloting lists shall be prepared (if necessary) containing the names of candidates in the order their nomination was received;  
-* all Officers shall be determined by optional preferential voting and all General Members shall be determined collectively by optional preferential proportional representation voting;  
-* the vote of every member of the Society shall be of equal weight;  
-* all elections must be by secret ballot;  
-* the assembly will select an impartial Returning Officer, who shall be responsible for ensuring the orderly running of the election;  
-* the Returning Officer may, with the consensus of the assembly, for each position to be elected, appoint Assistant Returning Officers to assist with the orderly running of the election;  
-* in the case of a tie, another round voting will immediately occur, with only the tied candidates appearing on the ballot;  
-* in the case of a second tie between the same candidates, another round of voting must occur before the close of the General Meeting, with only the tied candidates appearing on the ballot;  
-* in the case of a third tie between the same candidates, the winner shall be determined by sortition; and  
+8.7 The election of Officers and General Members of the Management Committee at a General Meeting shall take place in the following manner:
+* any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or General Member of the Management Committee;
+* the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place;
+* at the commencement of the General Meeting, any nominations from the floor will be accepted;
+* if in any election the number of candidates nominated for a position is fewer than or equal to the number of vacancies for that position, those candidates shall be elected unopposed without putting the matter to a vote;
+* balloting lists shall be prepared (if necessary) containing the names of candidates in the order their nomination was received;
+* all Officers shall be determined by optional preferential voting and all General Members shall be determined collectively by optional preferential proportional representation voting;
+* the vote of every member of the Society shall be of equal weight;
+* all elections must be by secret ballot;
+* the assembly will select an impartial Returning Officer, who shall be responsible for ensuring the orderly running of the election;
+* the Returning Officer may, with the consensus of the assembly, for each position to be elected, appoint Assistant Returning Officers to assist with the orderly running of the election;
+* in the case of a tie, another round voting will immediately occur, with only the tied candidates appearing on the ballot;
+* in the case of a second tie between the same candidates, another round of voting must occur before the close of the General Meeting, with only the tied candidates appearing on the ballot;
+* in the case of a third tie between the same candidates, the winner shall be determined by sortition; and
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
-8.8 The election of General Members of the Management Committee without a General Meeting shall take place in the following manner:  
-* the Management Committee shall be at liberty to nominate any member of the Society to serve as a General Member of the Management Committee;  
-* the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
-* the members of the Society shall have no less than seven (7) days to cast their vote;  
-* the vote of every member of the Society shall be of equal weight;  
-* the nominee will be elected as a General Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
+8.8 The election of General Members of the Management Committee without a General Meeting shall take place in the following manner:
+* the Management Committee shall be at liberty to nominate any member of the Society to serve as a General Member of the Management Committee;
+* the Management Committee must give every member of the Society an opportunity to vote secretly and securely;
+* the members of the Society shall have no less than seven (7) days to cast their vote;
+* the vote of every member of the Society shall be of equal weight;
+* the nominee will be elected as a General Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
 ## 9 Resignation or Removal from Office of Membership of Management Committee
@@ -141,9 +141,9 @@ the management committee shall consider whether the member's membership shall be
 9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.
 
 9.3 If a member of the Management Committee:
-* fails to comply with any of the provisions of the Constitution;  
-* has membership fees in arrears;  
-* violates the Society's Code of Conduct;  
+* fails to comply with any of the provisions of the Constitution;
+* has membership fees in arrears;
+* violates the Society's Code of Conduct;
 * acts in a manner considered to be injurious or prejudicial to the character or interests of the Society
 
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
@@ -162,14 +162,18 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 11 Functions of the Management Committee
 
-11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Society carried at any general meeting, the management committee:  
-* shall have the general control and management of the administration of the affairs and funds of the Society  
+11.1 Except as otherwise provided by these rules and subject to resolutions of the members of the Society carried at any general meeting, the management committee:
+* shall have the general control and management of the administration of the affairs and funds of the Society
 * shall have authority to interpret the meaning of these rules and any matter relating to the Society on which these rules are silent.
 
-11.2 The management committee may exercise all the power of the Society:  
+11.2 The management committee may exercise all the power of the Society:
 * to raise or secure the payment of money in such manner as the members of the Society may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by the Society in any way.
 
 11.3 The management committee will take full responsibility for all publications produced by the Society or by any of its members.
+
+11.4 At any event, function or gathering where UQCS is a financial contributor and pizza is offered, at least one (1) Hawaii\[a\]n pizza where:
+* a Hawaii\[a\]n pizza is a pizza originating in Canada, and is traditionally topped with pineapple, tomato sauce, cheese, and either ham or bacon [(source)](https://en.wikipedia.org/wiki/Hawaiian_pizza).
+* where procuring a Hawaii\[a\]n pizza from Canada is unfeasible, a substitute pizza originating from an establishment in Australia will suffice, provided that it meets the other requirements in 11.4.
 
 ## 12 Meetings of Management Committee
 
@@ -219,25 +223,25 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 15 Timing of Annual General Meetings
 
-15.1 Each Annual General Meeting of the Society must be held:  
-* at least once each year; and  
+15.1 Each Annual General Meeting of the Society must be held:
+* at least once each year; and
 * within three (3) months after the end of the Society's previous financial year.
 
 ## 16 Business to be Transacted at Annual General Meetings
 
-16.1 The following business must be transacted at every Annual General Meeting:  
-* the confirmation of the Minutes of the previous Annual General Meeting, and of the Minutes of any Special General Meetings that occurred since the previous Annual General Meeting;  
-* the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer;  
-* the receiving of reports from the President and Secretary;  
-* the receiving of the auditor's report on the financial affairs of the Society for the last financial year;  
-* the presenting of the audited statement to the meeting for adoption; and  
+16.1 The following business must be transacted at every Annual General Meeting:
+* the confirmation of the Minutes of the previous Annual General Meeting, and of the Minutes of any Special General Meetings that occurred since the previous Annual General Meeting;
+* the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer;
+* the receiving of reports from the President and Secretary;
+* the receiving of the auditor's report on the financial affairs of the Society for the last financial year;
+* the presenting of the audited statement to the meeting for adoption; and
 * the election of members of the Management Committee.
 
 ## 17 Special General Meeting
 
 17.1 The secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
-* being directed to do so by the management committee  
-* being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1)  
+* being directed to do so by the management committee
+* being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1)
 * being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person
 
 17.2 A requisition shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
@@ -256,13 +260,13 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 20 Procedure at General Meeting
 
-20.1 Unless otherwise provided by these rules, at every General Meeting:  
-* the President (or nominee for the meeting) shall preside as chairperson;  
-* if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;  
-* every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
-* every resolution must be minuted;  
-* the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;  
-* proxies that follow the University of Queensland Union regulations will be allowed; and  
+20.1 Unless otherwise provided by these rules, at every General Meeting:
+* the President (or nominee for the meeting) shall preside as chairperson;
+* if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;
+* every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;
+* every resolution must be minuted;
+* the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;
+* proxies that follow the University of Queensland Union regulations will be allowed; and
 * proxies that follow a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting will be allowed.
 
 ## 21 Alteration of Rules
@@ -271,8 +275,8 @@ the membership shall consider at a General Meeting whether that person's members
 
 21.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Committee.
 
-21.3 A special resolution to amend or add to these rules is passed at a meeting if:  
-* at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
+21.3 A special resolution to amend or add to these rules is passed at a meeting if:
+* at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and
 * any additional requirement of the Constitution relating to the passage of a special resolution have been met.
 
 21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.
@@ -297,8 +301,8 @@ the membership shall consider at a General Meeting whether that person's members
 
 22.7 All expenditure shall be approved or ratified by the Management Committee.
 
-22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
-* the income and expenditure for the financial year just ended; and  
+22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:
+* the income and expenditure for the financial year just ended; and
 * the assets and liabilities at the close of that year.
 
 22.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
