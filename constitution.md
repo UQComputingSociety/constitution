@@ -19,7 +19,7 @@
 * Educate our members through programming competitions, peer-workshops, group projects and other methods.  
 * Provide and facilitate educational, industry, corporate networking through various events, mixers, and connections.
 
-2.2 The assets and income of the Society shall be applied solely in furtherance of its above- mentioned objects and no portion shall be distributed directly or indirectly to the members of the Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Society.
+2.2 The assets and income of the Society shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Society.
 
 2.3 The Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
