@@ -135,3 +135,19 @@
   - Alex Nicholson
   - Treffery Webb - Elected by SGM 19-05-22
   - Linden Wells - Resigned 19-05-22
+
+## 2023
+- President: Rachel Chiong
+- Secretary: Limao Chang
+- Treasurer: Sonja McNeilly
+- Event Officer: Jia-Jie (Jackie) Dinh Chang
+- Sponsor Officer: Kwan Li
+- Media Officer: Faith McKay
+- Design Officer: Miguel Valencia
+- General Committee:
+  - Campbell McFadden
+  - Connor Geissmann
+  - Elias Blanch
+  - Iain Jensen
+  - Isaac Beh
+  - Nazeef Hamid
