@@ -265,6 +265,8 @@ the membership shall consider at a General Meeting whether that person's members
 * proxies that follow the University of Queensland Union regulations will be allowed; and  
 * proxies that follow a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting will be allowed.
 
+20.2 At the closure of every General Meeting, the Management Committee shall be required to partake in a 'spirited jig' until such point as the majority of attendees have deemed it appropriate. Should any member of the Management Committee fail to do so without legitimate reason as deemed by those in attendance, they shall be required to have their head hair shaved to a length no greater than 10mm.
+
 ## 21 Alteration of Rules
 
 21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.
