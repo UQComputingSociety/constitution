@@ -235,7 +235,7 @@ the membership shall consider at a General Meeting whether that person's members
 * the presenting of the audited statement to the meeting for adoption; and  
 * the election of members of the Management Committee.
 
-## 18 Electoral General Meeting
+## 17 Electoral General Meeting
 
 17.1 At least one (1) month and no more than four (4) months before the Annual General Meeting, the Society must hold an Electoral General Meeting.
 
