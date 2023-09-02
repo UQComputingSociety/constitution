@@ -246,30 +246,30 @@ the membership shall consider at a General Meeting whether that person's members
 
 17.3 The Management Committee shall provide any resources to the Returning Officer required to undertake their duties.
 
-## 17 Special General Meeting
+## 18 Special General Meeting
 
-17.1 The secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
+18.1 The secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
 * being directed to do so by the management committee  
 * being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1)  
 * being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person
 
-17.2 A requisition shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
+18.2 A requisition shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
-## 18 Quorum at General Meeting
+## 19 Quorum at General Meeting
 
-18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society $\lceil \sqrt{125+n} \rceil$.
+19.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society $\lceil \sqrt{125+n} \rceil$.
 
-## 19 Notice of General Meeting
+## 20 Notice of General Meeting
 
-19.1 The Secretary shall convene General Meeting of the Society by giving no less than fourteen (14) days notice of any such meetings to the members of the Society.
+20.1 The Secretary shall convene General Meeting of the Society by giving no less than fourteen (14) days notice of any such meetings to the members of the Society.
 
-19.2 Such notice shall be given shall be by e-mail, and any other manner determined by the Management Committee.
+20.2 Such notice shall be given shall be by e-mail, and any other manner determined by the Management Committee.
 
-19.3 Notice of a General Meeting shall clearly state the nature of the business to be discussed thereat, and the date, time and place of the general meeting.
+20.3 Notice of a General Meeting shall clearly state the nature of the business to be discussed thereat, and the date, time and place of the general meeting.
 
-## 20 Procedure at General Meeting
+## 21 Procedure at General Meeting
 
-20.1 Unless otherwise provided by these rules, at every General Meeting:  
+21.1 Unless otherwise provided by these rules, at every General Meeting:  
 * the President (or nominee for the meeting) shall preside as chairperson;  
 * if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;  
 * every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
@@ -278,62 +278,62 @@ the membership shall consider at a General Meeting whether that person's members
 * proxies that follow the University of Queensland Union regulations will be allowed; and  
 * proxies that follow a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting will be allowed.
 
-## 21 Alteration of Rules
+## 22 Alteration of Rules
 
-21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.
+22.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.
 
-21.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Committee.
+22.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Committee.
 
-21.3 A special resolution to amend or add to these rules is passed at a meeting if:  
+22.3 A special resolution to amend or add to these rules is passed at a meeting if:  
 * at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
 * any additional requirement of the Constitution relating to the passage of a special resolution have been met.
 
-21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.
+22.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.
 
-21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General meeting.
+22.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General meeting.
 
-21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.
+22.6 Only those members entitled by the Constitution to vote may vote on a special resolution.
 
-## 22 Funds and Accounts
+## 23 Funds and Accounts
 
-22.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate a single account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies Committee.
+23.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate a single account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies Committee.
 
-22.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
+23.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
 
-22.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
+23.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
 
-22.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Committee.
+23.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Committee.
 
-22.5 Cheques shall be crossed “not negotiable”.
+23.5 Cheques shall be crossed “not negotiable”.
 
-22.6 The Management Committee shall determine the amount of petty cash that shall be kept.
+23.6 The Management Committee shall determine the amount of petty cash that shall be kept.
 
-22.7 All expenditure shall be approved or ratified by the Management Committee.
+23.7 All expenditure shall be approved or ratified by the Management Committee.
 
-22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
+23.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
 * the income and expenditure for the financial year just ended; and  
 * the assets and liabilities at the close of that year.
 
-22.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
+23.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
 
-22.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.
+23.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.
 
-22.11 When the annual incoming during the financial year of the Society total strictly greater than fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by an independent auditor appointed by the Management Committee.
+23.11 When the annual incoming during the financial year of the Society total strictly greater than fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by an independent auditor appointed by the Management Committee.
 
-22.12 The auditor must examine the statement prepared by the Treasurer and report on it to the Secretary before the next Annual General Meeting.
+23.12 The auditor must examine the statement prepared by the Treasurer and report on it to the Secretary before the next Annual General Meeting.
 
-22.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.
+23.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.
 
-22.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.
+23.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.
 
-## 23 Dissolution Clause
+## 24 Dissolution Clause
 
-23.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association or associations with similar purposes, which are not carried on for the profit or gain of their individual members, and preferring associations targeted primarily towards students of the University of Queensland.
+24.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association or associations with similar purposes, which are not carried on for the profit or gain of their individual members, and preferring associations targeted primarily towards students of the University of Queensland.
 
-## 24 Documents
+## 25 Documents
 
-24.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.
+25.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.
 
 ---
 
-This constitution is enacted on this 8th day of October, 2019.
+This constitution is enacted on this 5th day of October, 2023.
