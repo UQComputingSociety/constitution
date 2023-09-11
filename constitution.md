@@ -244,7 +244,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 18 Quorum at General Meeting
 
-18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of one hundred and twenty-five plus the number of financial members of the Society $\lceil \sqrt{125+n} \rceil$.
+18.1 At any General Meeting, the number of members required to constitute a quorum shall be a number of members equal to the smallest integer greater than or equal to the square root of the number of financial members of the Society ($\lceil \sqrt{n} \rceil$).
 
 ## 19 Notice of General Meeting
 
