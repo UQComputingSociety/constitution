@@ -157,7 +157,7 @@
 - Secretary: Jia-Jie (Jackie) Dinh Chang
 - Treasurer: Richard Yu
 - Events Officer: Jesse Wang
-- Sponsor Officer: Harsha Varma
+- Industry Officer: Harsha Varma
 - Media Officer: Bahareh Khiabani
 - General Committee:
   - Aayushi Patel
