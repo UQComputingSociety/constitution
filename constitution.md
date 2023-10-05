@@ -228,10 +228,12 @@ the membership shall consider at a General Meeting whether that person's members
 16.1 The following business must be transacted at every Annual General Meeting:  
 * the confirmation of the Minutes of the previous Annual General Meeting, and of the Minutes of any Special General Meetings that occurred since the previous Annual General Meeting;  
 * the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer;  
-* the receiving of reports from the President and Secretary;  
+* the receiving of reports from the officers;  
 * the receiving of the auditor's report on the financial affairs of the Society for the last financial year;  
 * the presenting of the audited statement to the meeting for adoption; and  
 * the election of members of the Management Committee.
+
+16.2 A draft of the officers' reports must be distributed to the members at least seventy-two (72) hours before the AGM commences.
 
 ## 17 Special General Meeting
 
