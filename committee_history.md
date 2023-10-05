@@ -151,3 +151,19 @@
   - Nazeef Hamid
   - Iain Jensen
   - Campbell McFadden
+
+## 2024
+- President: Iain Jensen
+- Secretary: Jia-Jie (Jackie) Dinh Chang
+- Treasurer: Richard Yu
+- Events Officer: Jesse Wang
+- Sponsor Officer: Harsha Varma
+- Media Officer: Bahareh Khiabani
+- General Committee:
+  - Aayushi Patel
+  - Amy Hu
+  - Anshul Dadhwal
+  - John Kim
+  - Mehr Chawla
+  - Roxie Cunningham
+  - Thomas Horsey
