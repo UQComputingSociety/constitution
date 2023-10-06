@@ -160,7 +160,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 10.3 The resignation or removal of a General Member from the Management Committee does not create a casual vacancy.
 
-10.4 While there is a vacnancy for an Officer of the Management Commitee other than the President, then the President shall assume the duties of that Officer.
+10.4 While there is a vacancy for an Officer of the Management Committee other than the President, then the President shall assume the duties of that Officer.
 
 10.5 While there is a vacancy for the President, the duties of the President shall be assumed by an Acting President. The Acting President will be the first non-vacant and existing of:
 * The Secretary;
