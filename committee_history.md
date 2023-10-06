@@ -95,17 +95,17 @@
 - Secretary: Matthew Low
 - Treasurer: Bradley Stone
 - Puisne Committee:
-  - Alexander Blyth - Elected by SGM 03-05-20
+  - Alexander Blyth - Elected by SGM 3rd May 2020
   - Sannidhi Bosamia
-  - Jack Caperon - Resigned 03-05-20
-  - Paul Clarke - Elected by SGM 03-05-20
+  - Jack Caperon - Resigned 3rd May 2020
+  - Paul Clarke - Elected by SGM 3rd May 2020
   - James Copperthwaite
-  - James Dearlove - Elected by SGM 03-05-20
+  - James Dearlove - Elected by SGM 3rd May 2020
   - Kenton Lam
   - Nicholas Lambourne
   - Olivia Mackenzie-Ross
-  - Raghav Mishra - Resigned 03-05-20
-  - Brian Riwu Kaho - Resigned 03-05-20
+  - Raghav Mishra - Resigned 3rd May 2020
+  - Brian Riwu Kaho - Resigned 3rd May 2020
 
 ## 2021
 - President: James Dearlove
@@ -125,16 +125,16 @@
 - President: Tom Malcolm
 - Secretary: Limao Chang
 - Treasurer: Andrew Brown
-- Puisne Committee (renamed General Committee at SGM 19-5-22):
+- Puisne Committee (renamed General Committee at SGM 19th May 2022):
   - Rachel Chiong
-  - Tom Cranitch - Resigned 31-01-22
-  - Leslie Goh Tze Xuan - Elected by SGM 19-05-22
-  - Yiwen Jiang - Elected by SGM 19-05-22
+  - Tom Cranitch - Resigned 31st Jan 2022
+  - Leslie Goh Tze Xuan - Elected by SGM 19th May 2022
+  - Yiwen Jiang - Elected by SGM 19th May 2022
   - Campbell McFadden
-  - Madhav Mishra - Resigned 19-05-22
+  - Madhav Mishra - Resigned 19th May 2022
   - Alex Nicholson
-  - Treffery Webb - Elected by SGM 19-05-22
-  - Linden Wells - Resigned 19-05-22
+  - Treffery Webb - Elected by SGM 19th May 2022
+  - Linden Wells - Resigned 19th May 2022
 
 ## 2023
 - President: Rachel Chiong
@@ -163,7 +163,7 @@
   - Aayushi Patel
   - Amy Hu
   - Anshul Dadhwal
-  - John Kim
+  - John Kim - Resigned 6th Oct 2023
   - Mehr Chawla
   - Roxie Cunningham
   - Thomas Horsey
