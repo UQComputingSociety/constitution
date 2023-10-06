@@ -1,0 +1,17 @@
+# Special Resolution Procedure
+
+This document shall serve as a by-law on the process of proposing a Special Resolution for the purpose of amending the constitution or creating a life member.
+
+Special Resolutions required two-thirds majority approval at a General Meeting, and fourteen days' notice. The deadline for proposing a Special Resolution is 11:59pm on the day fourteen days before the General Meeting. Any Special Resolution that is proposed after the deadline will instead be considered at the next General Meeting.
+
+A Special Resolution may be proposed by creating a pull request on this repository. Proposals must contain a meaningful title and justification at the time they are proposed. The motion, title and justification may be edited up until they are voted on, but the edits cannot substantially change the meaning of the motion, title or justification.
+
+Closing a pull request will be taken as withdrawing the proposal. Only the member who made the proposal may withdraw it. A proposal cannot be withdrawn after the deadline, or within forty-eight hours before the deadline[^1]. A pull request that has been closed cannot be reopened; a new pull request must be made to re-propose the Special Resolution, if so desired. The exceptions to this are a) if a pull request was closed by accident, and reopened within fifteen minutes by the proposer, or b) if the pull request was closed when it is too late to withdraw the motion, in which case it must be reopened immediately by any member with the permissions to do so.
+
+Within forty-eight hours following the deadline, the Secretary must post in the `#uqcs-announcements` channel of the Discord a list, consisting of the title and link, of all Special Resolutions that will be considered at the General Meeting. In all emails sent to members between the deadline and the General Meeting, the same list must be included; at least one such email must be sent.
+
+At the general meeting, the Special Resolutions will be considered in the order they were proposed.
+
+After the General Meeting, the Committee must merge the approved pull requests within two weeks. The Committee has the authority to resolve merge conflicts, adjust formatting and renumber sections when performing these merges. If two Special Resolutions deal with similar issues, such that one Special Resolution would have likely affected the content of the other, had the latter been in place before the former was proposed, then the Committee has the authority to expand the scope of the amendments to rectify this. Within forty-eight hours of merging the last Special Resolution that was approved at a General Meeting, the Secretary must publish a list of changes that were made under this paragraph that were not a part of the pull requests at the time of the General Meeting. If at least two members object to these changes within seven days, and those members and the Committee cannot come to an agreement, then the Secretary must call a Special General Meeting within twenty-eight days of the objections to decide the issue.
+
+[^1]: The rationale for this is that if a proposal is withdrawn early enough, a different member who still supports the proposal may create another pull request to re-propose the Special Resolution. If the proposal is withdrawn after the deadline, or too close to the deadline, then that member will lose the opportunity to do so.
