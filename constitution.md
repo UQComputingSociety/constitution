@@ -140,7 +140,7 @@ the management committee shall consider whether the member's membership shall be
 
 9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.
 
-9.3 If a member of the Management Committee is found to have been improperly elected, they shall be removed from the Management Committee at such a time that the Secretary is made aware of them being improperly elected. However, any actions taken my the member of the Management Committee up until this time shall be treated as valid.
+9.3 If a member of the Management Committee is found to have been improperly elected, they shall be removed from the Management Committee at such a time that the Secretary is made aware of them being improperly elected. However, any actions taken by the member of the Management Committee up until this time shall be treated as valid.
 
 9.4 The Secretary may be removed in the same manner as any other member of the Management Committee, with the exception that the time at which they are removed shall instead be the time that the President is made aware of them being improperly elected.
 
