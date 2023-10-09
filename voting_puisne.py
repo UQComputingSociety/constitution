@@ -36,30 +36,28 @@ ballots = [
     ["Chicken", "Chocolate", "Burger"]
 ]
 
-duplicate = False
+duplicate = []
 for b in ballots:
     if len(b) != len(set(b)):
-        if not duplicate:
-            print("Ballots with Duplicate Entries:")
-            duplicate = True
-        print("  ", b)
+        duplicate.append(str(b))
 if duplicate:
-    print()
+    print("Ballots with Duplicate Entries:\n  " + "\n  ".join(duplicate) + "\n")
 
-candidates = sorted(set(i for j in ballots for i in j))
-print(f"{len(candidates)} Candidates: {', '.join(candidates)}")
+candidates = set(i for j in ballots for i in j)
+print(f"{len(candidates)} Candidates: {', '.join(sorted(candidates))}")
 assert nominees == len(candidates)
 print(f"{len(ballots)} Ballots")
 print(f"{positions} Positions")
 quota = len(ballots)/(positions + 1) + epsilon
 print(f"Quota: {quota}")
 
-elected = []
-eliminated = []
+elected = set()
+eliminated = set()
 tallies = [{'weight': 1.0, 'order': i} for i in ballots]
 stage = 0
 
 while len(elected) + len(candidates) > positions and len(elected) != positions:
+    assert len(elected) + len(candidates) + len(eliminated) == nominees
     stage += 1
     if verbose:
         print(f"\nRound {stage}")
@@ -69,49 +67,44 @@ while len(elected) + len(candidates) > positions and len(elected) != positions:
     while tallies:
         vote = tallies.pop()
         # remove any elected or eliminated candidates
-        for c in elected + eliminated:
-            while c in vote['order']:
-                vote['order'].remove(c)
+        vote["order"] = [i for i in vote["order"] if i in candidates]
         if vote['order']:
             assignments[vote['order'][0]].append(vote)
 
     kill = True
     minimum = quota
-    dying = []
-    progress = []
+    dying = set()
+    progress = {}
 
     # for each candidate, count up the number of votes
     # sorting so that candidates are shown elected in the right order (if verbose)
-    for c in sorted(assignments.keys(), key=lambda x: (-sum(c['weight'] for c in assignments[x]), x)):
+    for c in sorted(assignments.keys(), key=lambda x: (-sum(v['weight'] for v in assignments[x]), x)):
         score = sum(v['weight'] for v in assignments[c])
-        progress.append((c, score))
+        progress[c] = score
 
         # if they score above quota, then elect them and return votes with reevaluated votes
         if score >= quota:
             kill = False
-            elected.append(c)
+            elected.add(c)
             candidates.remove(c)
             if verbose:
                 print(f"  Elected: {c}")
-            while assignments[c]:
-                vote = assignments[c].pop()
+            for vote in assignments[c]:
                 vote['weight'] *= 1 - quota/score
                 tallies.append(vote)
-        # if they don't score above quota, return votes
+        # if they don't score above quota, return votes to the tallies unchanged
         else:
-            while assignments[c]:
-                vote = assignments[c].pop()
-                tallies.append(vote)
+            tallies.extend(assignments[c])
 
         # find the candidates with the minimum scores
         if score < minimum:
-            dying = [c]
+            dying = set([c])
             minimum = score
         elif score == minimum:
-            dying.append(c)
+            dying.add(c)
 
     if verbose and verbosier:
-        print("  " + "; ".join(f"{p[0]}: {p[1]:.2f}" for p in sorted(progress, key=lambda x: -x[1])))
+        print("  " + "; ".join(f"{p}: {progress[p]:.2f}" for p in sorted(progress, key=progress.get, reverse=True)))
 
     # if someone was elected, move directly to the next round
     if not kill: continue
@@ -119,27 +112,25 @@ while len(elected) + len(candidates) > positions and len(elected) != positions:
     # if eliminating candidates would leave insufficient remaining candidates, announce
     if len(elected) + len(candidates) - len(dying) < positions:
         print("Tie In Final Round")
-        print("  " + "\n  ".join(e))
-        for c in dying:
-            eliminated.append(c)
-            candidates.remove(c)
+        print("  " + "\n  ".join(dying))
+        eliminated.update(dying)
+        candidates.difference_update(dying)
         break
 
     # eliminate candidates
-    for c in dying:
-        eliminated.append(c)
-        candidates.remove(c)
-        if verbose:
-            print(f"  Eliminated: {c}")
+    if verbose:
+        print("\n".join(f"  Eliminated: {c}" for c in dying))
+    eliminated.update(dying)
+    candidates.difference_update(dying)
 
 # if candidates remain (who didn't score above quota)
 if candidates:
     if len(elected) != positions:
-        elected += candidates
+        elected.update(candidates)
         if verbose:
             print("\n" + "\n".join(f"Remainder: {c}" for c in candidates))
     else:
-        eliminated += candidates
+        eliminated.update(candidates)
         if verbose:
             print("\n" + "\n".join(f"Removed: {c}" for c in candidates))
 
