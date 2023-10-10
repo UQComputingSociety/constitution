@@ -33,7 +33,9 @@
         - Voting methods
     5. Determine officer roles of the new committee (motion & vote)
         - Order of creation matters
+        - Total committee positions must be less than half of AGM quorum
     6. Determine number of general positions of the new committee (motion & vote)
+        - Total committee positions must be less than half of AGM quorum
     7. Election of president
         1. Description of role
         2. Announce received nominations
