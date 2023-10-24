@@ -34,7 +34,7 @@
 
 3.3 Seventy percent (70%) of the Society's financial members must be University of Queensland Union members.
 
-3.4 Honorary life membership may be granted to any individual as determined by special resolution at a General Meeting.
+3.4 Honorary life membership may be granted to any individual as determined by Special Resolution at a General Meeting.
 
 ## 4 Membership Fees
 
@@ -150,7 +150,9 @@ the membership shall consider at a General Meeting whether that person's members
 
 9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
 
-9.5 There is no right of appeal against a member's removal from the Management Committee under this section.
+9.5 If a member of the Management Committee fails to attend any meetings of the Management Committee for three (3) consecutive calendar months in which at least one (1) quorate meeting was held in each calendar month, that person's membership of the Management Committee shall be terminated.
+
+9.6 There is no right of appeal against a member's removal from the Management Committee under this section.
 
 ## 10 Vacancies on Management Committee
 
@@ -267,60 +269,61 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 21 Alteration of Rules
 
-21.1 These rules may be amended or added to from time to time by a special resolution carried at any General Meeting.
+21.1 These rules may be amended or added to from time to time by a Special Resolution.
 
 21.2 However, any amendment or addition is valid only if it is registered by and approved by the Clubs and Societies Administration Committee.
 
-21.3 A special resolution to amend or add to these rules is passed at a meeting if:  
-* at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the meeting vote in favour of the resolution; and  
-* any additional requirement of the Constitution relating to the passage of a special resolution have been met.
+21.3 The motion of a Special Resolution to alter these rules may be amended during discussion of the motion, without violating the notice requirement of the Special Resolution, so long as the motion's amendment does not substantially change the motion.
 
-21.4 A resolution is not considered a special resolution unless at least fourteen (14) days notice has been given to all members of the Society specifying that the resolution is to be considered a special resolution.
+## 22 Special Resolution
 
-21.5 A declaration by the chairperson of the meeting that the special resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General meeting.
+22.1 A Special Resolution, under these rules, is a motion that:
+* is moved at a General Meeting of the Society;
+* at least two-thirds (2/3) of the members of the Society who vote in person or by proxy at the General Meeting vote in favour of the motion; and
+* at least fourteen (14) days notice has been given to all members of the Society of the motion.
 
-21.6 Only those members entitled by the Constitution to vote may vote on a special resolution.
+22.2 A declaration by the chairperson of the meeting that the Special Resolution has been carried is conclusive proof of that fact unless a poll is demanded by three (3) or more members present at the General Meeting.
 
-## 22 Funds and Accounts
+## 23 Funds and Accounts
 
-22.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate a single account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies Committee.
+23.1 The funds of the Society must be kept in the name of the Society in the University branch of the Commonwealth Bank. The Society shall operate a single account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies Committee.
 
-22.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
+23.2 Proper books and accounts shall be kept and maintained either in written, printed or digital form in the English language showing correctly the financial affairs of the Society and the particulars usually shown in books of a like nature.
 
-22.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
+23.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
 
-22.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Committee.
+23.4 All amounts shall be paid by cheque or bank transfer authorised by any two (2) of the President, Secretary, Treasurer, or other member of the Society authorised from time to time by the members of the Society at any General Meeting or the Clubs and Societies Committee.
 
-22.5 Cheques shall be crossed “not negotiable”.
+23.5 Cheques shall be crossed “not negotiable”.
 
-22.6 The Management Committee shall determine the amount of petty cash that shall be kept.
+23.6 The Management Committee shall determine the amount of petty cash that shall be kept.
 
-22.7 All expenditure shall be approved or ratified by the Management Committee.
+23.7 All expenditure shall be approved or ratified by the Management Committee.
 
-22.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
+23.8 As soon as practicable after the end of the financial year the Treasurer shall cause to be prepared a statement containing the particular of:  
 * the income and expenditure for the financial year just ended; and  
 * the assets and liabilities at the close of that year.
 
-22.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
+23.9 The accounts of the Society must be audited prior to, and the results presented at, the Annual General Meeting of the Society.
 
-22.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.
+23.10 When the annual income during the financial year of the Society totals less than or exactly fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by the auditor nominated by the Union.
 
-22.11 When the annual incoming during the financial year of the Society total strictly greater than fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by an independent auditor appointed by the Management Committee.
+23.11 When the annual incoming during the financial year of the Society total strictly greater than fifty thousand dollars ($50'000.00), the accounts of the Society shall be audited by an independent auditor appointed by the Management Committee.
 
-22.12 The auditor must examine the statement prepared by the Treasurer and report on it to the Secretary before the next Annual General Meeting.
+23.12 The auditor must examine the statement prepared by the Treasurer and report on it to the Secretary before the next Annual General Meeting.
 
-22.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.
+23.13 The income and property of the Society must be used solely in promoting the objectives of the Society and exercising the powers of the Society.
 
-22.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.
+23.14 The financial year of the Society shall be determined by the Clubs and Societies Committee.
 
-## 23 Dissolution Clause
+## 24 Dissolution Clause
 
-23.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association or associations with similar purposes, which are not carried on for the profit or gain of their individual members, and preferring associations targeted primarily towards students of the University of Queensland.
+24.1 In the event of the Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association or associations with similar purposes, which are not carried on for the profit or gain of their individual members, and preferring associations targeted primarily towards students of the University of Queensland.
 
-## 24 Documents
+## 25 Documents
 
-24.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.
+25.1 The Management Committee shall provide for the safe custody of books, documents, property, instruments of titles, securities and digital assets of the Society.
 
 ---
 
-This constitution is enacted on this 8th day of October, 2019.
+This constitution is enacted on this 5th day of October, 2023.
