@@ -160,10 +160,10 @@
 - Industry Officer: Harsha Varma
 - Media Officer: Bahareh Khiabani
 - General Committee:
-  - Aayushi Patel
+  - Aayushi Patel - Terminated under section 9.5 of the UQCS constitution 25 February 2024
   - Amy Hu
   - Anshul Dadhwal
   - John Kim - Resigned 6th Oct 2023
-  - Mehr Chawla
+  - Mehr Chawla - Terminated under section 9.5 of the UQCS constitution 25 February 2024
   - Roxie Cunningham
   - Thomas Horsey
