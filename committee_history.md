@@ -167,3 +167,6 @@
   - Mehr Chawla - Terminated under section 9.5 of the UQCS constitution 25 February 2024
   - Roxie Cunningham
   - Thomas Horsey
+  - Tom Cameron - Elected by SGM 7th March 2024
+  - Alexander Burow - Elected by SGM 7th March 2024
+  - Rohan Kollambalath - Elected by SGM 7th March 2024
