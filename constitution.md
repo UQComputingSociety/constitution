@@ -169,7 +169,7 @@ the membership shall consider at a General Meeting whether that person's members
 * The oldest General Member of the Management Committee; or
 * The Life Member of the Society, located closest by Euclidean distance to the coordinates 27°30'S, 153°1'E, at the altitude of the Brisbane River datum.
 
-10.6 A member of the Management Committee is entitled to one (1) vote, regardless of how many positions they are assuming the duties of.
+10.6 A member of the Management Committee is entitled to one (1) vote on any questions, matters or resolutions arising at any meeting of the Management Committee, regardless of how many positions they are assuming the duties of.
 
 ## 11 Functions of the Management Committee
 
