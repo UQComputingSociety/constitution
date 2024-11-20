@@ -170,3 +170,19 @@
   - Tom Cameron - Elected by SGM 7th March 2024
   - Alexander Burow - Elected by SGM 7th March 2024
   - Rohan Kollambalath - Elected by SGM 7th March 2024
+
+## 2025 
+- President: Jia-Jie (Jackie) Dinh Chang
+- Secretary: Yixin (Amy) Hu
+- Treasurer: Mengqi (Richard) Yu
+- Events Officer: Jesse Wang 
+- Industry Officer: Masham Siddiqui 
+- Media Officer: Anshul Dadhwal
+- General Committee: 
+  - Alexander Burow 
+  - Roxie Cunningham 
+  - Bahareh Khiabani 
+  - Harsha Varma 
+  - Zain Al-Saffi 
+  - Yuvraj Fowdar
+  - David Long 
