@@ -173,6 +173,10 @@ the membership shall consider at a General Meeting whether that person's members
 
 11.3 The management committee will take full responsibility for all publications produced by the Society or by any of its members.
 
+11.4 At any event, function or gathering where UQCS is a financial contributor and pizza is offered, at least one (1) Hawaii\[a\]n pizza where:
+* a Hawaii\[a\]n pizza is a pizza originating in Canada, and is traditionally topped with pineapple, tomato sauce, cheese, and either ham or bacon [(source)](https://en.wikipedia.org/wiki/Hawaiian_pizza).
+* where procuring a Hawaii\[a\]n pizza from Canada is unfeasible, a substitute pizza originating from an establishment in Australia will suffice, provided that it meets the other requirements in 11.4.
+
 ## 12 Meetings of Management Committee
 
 12.1 The Management Committee shall meet together and regulate its proceedings as required to exercise its functions.
