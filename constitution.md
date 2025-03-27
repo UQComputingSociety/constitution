@@ -265,7 +265,8 @@ the membership shall consider at a General Meeting whether that person's members
 * if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;  
 * every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
 * every resolution must be minuted;  
-* the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;
+* a draft of the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting; and
+* a draft of the minutes of the General Meeting shall be made available to the Members of the Society within seven (7) days of the General Meeting.
 
 20.2 Proxy voting on behalf of an absent member will be allowed at a General Meeting if:
 * the proxy follows the University of Queensland Union regulations; or  
