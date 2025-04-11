@@ -273,7 +273,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 20.3 No person can hold more than two (2) proxy votes at any General Meeting.
 
-20.4 A person may only participate in a General Meeting if they have been a member of the Society for at least fourteen (14) days at the time of a General Meeting.
+20.4 A person may only participate in a General Meeting if they have been a member of the Society for at least fourteen (14) of the sixty (60) days immediately preceding the General Meeting.
 
 ## 21 Alteration of Rules
 
