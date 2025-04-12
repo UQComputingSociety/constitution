@@ -267,10 +267,9 @@ the membership shall consider at a General Meeting whether that person's members
 * every resolution must be minuted;  
 * the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;
 
-20.2 Proxy voting on behalf of an absent member will be allowed at a General Meeting if:
-* the proxy follows the University of Queensland Union regulations;
-* the proxy follows a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting; or
-* the absent member who proxies their vote would themselves hold voting rights at the General Meeting.
+20.2 Proxy voting on behalf of an absent member will be allowed at a General Meeting if the absent member who proxies their vote would themselves hold voting rights at the General Meeting and:
+* the proxy follows the University of Queensland Union regulations; or
+* the proxy follows a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting.
 
 20.3 No person can hold more than two (2) proxy votes at any General Meeting.
 
