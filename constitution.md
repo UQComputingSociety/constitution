@@ -271,7 +271,7 @@ the membership shall consider at a General Meeting whether that person's members
 * the proxy follows the University of Queensland Union regulations; or  
 * the proxy follows a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting.
 
-20.3 No person can hold more than two (2) proxy votes at any General Meeting.
+20.3 No person can hold more than one (1) proxy vote at any General Meeting.
 
 20.4 A person may only participate in a General Meeting if they have been a member of the Society for at least fourteen (14) days at the time of a General Meeting.
 
