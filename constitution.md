@@ -261,8 +261,9 @@ the membership shall consider at a General Meeting whether that person's members
 ## 20 Procedure at General Meeting
 
 20.1 Unless otherwise provided by these rules, at every General Meeting:  
+* If the General Meeting has not opened and is constructively underway within thirty (30) minutes after the time stated for the commencement of that General Meeting in the notice given for that General Meeting, the meeting shall lapse and the Secretary shall give notice for a General Meeting to consider the same business to take place within one (1) month;
 * the President (or nominee for the meeting) when the General Meeting commences shall preside as chairperson;  
-* if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;  
+* if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, or if the members so resolve, then the members present shall elect a member of the Society to be chairperson of the meeting;  
 * every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
 * every resolution must be minuted;  
 * the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;
@@ -274,6 +275,10 @@ the membership shall consider at a General Meeting whether that person's members
 20.3 No person can hold more than two (2) proxy votes at any General Meeting.
 
 20.4 A person may only participate in a General Meeting if they have been a member of the Society for at least fourteen (14) days at the time of a General Meeting.
+
+20.5 An Annual General Meeting cannot be closed until all business listed in Section 16.1 has been transacted.
+
+20.6 A General Meeting must be closed before the time stated for the conclusion of the General Meeting in the notice given for that General Meeting, or if no such time was stated in that notice, four (4) hours after the time stated for the commencement of that General Meeting in that notice. However, Section 20.5 takes priority over this clause.
 
 ## 21 Alteration of Rules
 
