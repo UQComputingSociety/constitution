@@ -152,7 +152,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 9.5 If a member of the Management Committee fails to attend any meetings of the Management Committee for three (3) consecutive calendar months in which at least one (1) quorate meeting was held in each calendar month, that person's membership of the Management Committee shall be terminated.
 
-9.6 There is no right of appeal against a member's removal from the Management Committee under this section.
+9.6 There is no right of appeal against a member's removal from the Management Committee under this Section.
 
 ## 10 Vacancies on Management Committee
 
@@ -239,12 +239,14 @@ the membership shall consider at a General Meeting whether that person's members
 
 ## 17 Special General Meeting
 
-17.1 The secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
+17.1 The secretary shall convene a Special General Meeting by sending out notice of the meeting within fourteen (14) days of:
 * being directed to do so by the management committee  
 * being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1)  
 * being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person
 
-17.2 A requisition shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
+17.2 A requisition shall clearly state the reasons why such Special General Meeting is being convened and the nature of the business to be transacted thereat.
+
+17.3 A Special General Meeting convened under this Section shall take place within one (1) month of the event in Clause 17.1 causing the Special General Meeting to be convened.
 
 ## 18 Quorum at General Meeting
 
@@ -262,7 +264,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 20.1 Unless otherwise provided by these rules, at every General Meeting:  
 * If the General Meeting has not opened and is constructively underway within thirty (30) minutes after the time stated for the commencement of that General Meeting in the notice given for that General Meeting, the meeting shall lapse, and the Secretary shall give notice for a General Meeting to consider the same business to take place within one (1) month;
-* If the General Meeting is inquorate for a contiguous duration of thirty (30) minutes, the meeting shall lapse, and should this occur at an Annual General Meeting, and some business listed in Section 16.1 remains to be transacted, the Secretary shall give notice for a General Meeting to consider that business to take place within one (1) month;
+* If the General Meeting is inquorate for a contiguous duration of thirty (30) minutes, the meeting shall lapse, and should this occur at an Annual General Meeting, and some business listed in Clause 16.1 remains to be transacted, the Secretary shall give notice for a General Meeting to consider that business to take place within one (1) month;
 * the President (or nominee for the meeting) when the General Meeting commences shall preside as chairperson;  
 * if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, or if the members so resolve, then the members present shall elect a member of the Society to be chairperson of the meeting;  
 * every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
@@ -277,9 +279,9 @@ the membership shall consider at a General Meeting whether that person's members
 
 20.4 A person may only participate in a General Meeting if they have been a member of the Society for at least fourteen (14) days at the time of a General Meeting.
 
-20.5 An Annual General Meeting cannot be closed until all business listed in Section 16.1 has been transacted.
+20.5 An Annual General Meeting cannot be closed until all business listed in Clause 16.1 has been transacted.
 
-20.6 A General Meeting must be closed before the time stated for the conclusion of the General Meeting in the notice given for that General Meeting, or if no such time was stated in that notice, four (4) hours after the time stated for the commencement of that General Meeting in that notice. However, Section 20.5 takes priority over this clause.
+20.6 A General Meeting must be closed before the time stated for the conclusion of the General Meeting in the notice given for that General Meeting, or if no such time was stated in that notice, four (4) hours after the time stated for the commencement of that General Meeting in that notice. However, Clause 20.5 takes priority over this clause.
 
 ## 21 Alteration of Rules
 
