@@ -4,4 +4,4 @@
 - Nicholas Lambourne (2020 AGM, 6th Oct)
 - Taylor Manderson (2023 AGM, 5th Oct)
 - James Dearlove (2023 AGM, 5th Oct)
-- Bradley Stone (insert whichever meeting this happens at)
+- Bradley Stone (2025 SGM, 8th May)
