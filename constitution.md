@@ -126,12 +126,12 @@ the management committee shall consider whether the member's membership shall be
 * in the case of a third tie between the same candidates, the winner shall be determined by sortition; and  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
-8.8 The election of General Members of the Management Committee without a General Meeting shall take place in the following manner:  
+8.8 The election of General Members of the Management Committee without a General Meeting shall take place in the following manner: 
 * the Management Committee shall be at liberty to nominate any member of the Society to serve as a General Member of the Management Committee;  
-* the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
-* the members of the Society shall have no less than seven (7) days to cast their vote;  
+* the Management Committee must give each member of the Management Committee an opportunity to vote secretly and securely; 
+* the Management Committee shall have no less than seven (7) days to cast their vote; 
 * the vote of every member of the Society shall be of equal weight;  
-* the nominee will be elected as a General Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
+* the nominee will be elected as a General Member of the Management Committee if and only if the number of votes of the members of the Management Commitee in favour equals or exceeds the number of members of the Management Committee needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Management Committee in favour equals or exceeds twice the number of votes of the members of the Management Committee.
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
 ## 9 Resignation or Removal from Office of Membership of Management Committee
@@ -149,6 +149,8 @@ the management committee shall consider whether the member's membership shall be
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
 
 9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
+
+9.5 If 4 or more members of the Management Committee is terminated or removed, a General Meeting must be called.
 
 9.5 If a member of the Management Committee fails to attend any meetings of the Management Committee for three (3) consecutive calendar months in which at least one (1) quorate meeting was held in each calendar month, that person's membership of the Management Committee shall be terminated.
 
