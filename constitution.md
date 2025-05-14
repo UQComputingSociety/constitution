@@ -138,7 +138,7 @@ the management committee shall consider whether the member's membership shall be
 
 9.1 Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary. Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, where it shall take effect on that later date.
 
-9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.
+9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President, or if the Secretary is the Acting President, then to the person who would become Acting President upon the resignation of the Secretary.
 
 9.3 If a member of the Management Committee:
 * fails to comply with any of the provisions of the Constitution;  
@@ -161,6 +161,17 @@ the membership shall consider at a General Meeting whether that person's members
 10.2 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.
 
 10.3 The resignation or removal of a General Member from the Management Committee does not create a casual vacancy.
+
+10.4 While there is a vacancy for an Officer of the Management Committee other than the President, then the President shall assume the duties of that Officer.
+
+10.5 While there is a vacancy for the President, the duties of the President shall be assumed by an Acting President. The Acting President will be the first non-vacant and existing of:
+* The Secretary;
+* The Treasurer;
+* The other Officer of the Management Committee, whose position was created earliest at or since the most recent Annual General Meeting;
+* The oldest General Member of the Management Committee; or
+* The Life Member of the Society, located closest by Euclidean distance to the coordinates 27°30'S, 153°1'E, at the altitude of the Brisbane River datum.
+
+10.6 A member of the Management Committee is entitled to one (1) vote on any questions, matters or resolutions arising at any meeting of the Management Committee, regardless of how many positions they are assuming the duties of.
 
 ## 11 Functions of the Management Committee
 
