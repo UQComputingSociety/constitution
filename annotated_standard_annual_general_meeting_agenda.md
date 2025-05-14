@@ -36,7 +36,12 @@
         - Total committee positions must be less than half of AGM quorum
     6. Determine number of general positions of the new committee (motion & vote)
         - Total committee positions must be less than half of AGM quorum
-    7. Election of president
+    7. Optional: Set time limits for speeches - suggested limits:
+        - President - four minutes;
+        - Secretary and Treasurer - three minutes;
+        - Other officers - two minues;
+        - General members - one minute.
+    8. Election of president
         1. Description of role
         2. Announce received nominations
         3. Withdrawal of nominations
@@ -46,18 +51,18 @@
         7. Secret balloting
         8. Ballot counting
         9. Announcement of result
-    8. Election of secretary
+    9. Election of secretary
         - Same process as president
-    9. Election of treasurer
+    10. Election of treasurer
         - Same process as president
-    10. Election of minor officers
+    11. Election of minor officers
         - One at a time
         - Same order as they were created in
         - Same process as president for each
-    11. Election of general committee
+    12. Election of general committee
         - Same process as president
-    12. Description of process of contesting election results
-    13. Return chair
+    13. Description of process of contesting election results
+    14. Return chair
 8. Business that has been proposed
     - Usually any special resolutions
     1. Mover speaks for the motion
