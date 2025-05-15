@@ -138,9 +138,13 @@ the management committee shall consider whether the member's membership shall be
 
 9.1 Any member of the Management Committee may resign from membership of the Management Committee at any time by giving notice in writing to the Secretary. Such resignation shall take effect at the time such notice is received by the Secretary, unless a later date is specified in the notice, where it shall take effect on that later date.
 
-9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President.
+9.2 The Secretary may resign in the same manner as any other member of the Management Committee, with the exception of written notice shall instead be given to the President, or if the Secretary is the Acting President, then to the person who would become Acting President upon the resignation of the Secretary.
 
-9.3 If a member of the Management Committee:
+9.3 If a member of the Management Committee is found to have been improperly elected, they shall be removed from the Management Committee at such a time that the Secretary is made aware of them being improperly elected. However, any actions taken by the member of the Management Committee up until this time shall be treated as valid.
+
+9.4 The Secretary may be removed in the same manner as any other member of the Management Committee, with the exception that the time at which they are removed shall instead be the time that the President is made aware of them being improperly elected.
+
+9.5 If a member of the Management Committee:
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct;  
@@ -148,11 +152,9 @@ the management committee shall consider whether the member's membership shall be
 
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
 
-9.4 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
+9.6 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
 
-9.5 If a member of the Management Committee fails to attend any meetings of the Management Committee for three (3) consecutive calendar months in which at least one (1) quorate meeting was held in each calendar month, that person's membership of the Management Committee shall be terminated.
-
-9.6 There is no right of appeal against a member's removal from the Management Committee under this Section.
+9.7 There is no right of appeal against a member's removal from the Management Committee under this section.
 
 ## 10 Vacancies on Management Committee
 
@@ -161,6 +163,17 @@ the membership shall consider at a General Meeting whether that person's members
 10.2 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.
 
 10.3 The resignation or removal of a General Member from the Management Committee does not create a casual vacancy.
+
+10.4 While there is a vacancy for an Officer of the Management Committee other than the President, then the President shall assume the duties of that Officer.
+
+10.5 While there is a vacancy for the President, the duties of the President shall be assumed by an Acting President. The Acting President will be the first non-vacant and existing of:
+* The Secretary;
+* The Treasurer;
+* The other Officer of the Management Committee, whose position was created earliest at or since the most recent Annual General Meeting;
+* The oldest General Member of the Management Committee; or
+* The Life Member of the Society, located closest by Euclidean distance to the coordinates 27°30'S, 153°1'E, at the altitude of the Brisbane River datum.
+
+10.6 A member of the Management Committee is entitled to one (1) vote on any questions, matters or resolutions arising at any meeting of the Management Committee, regardless of how many positions they are assuming the duties of.
 
 ## 11 Functions of the Management Committee
 
@@ -271,13 +284,13 @@ the membership shall consider at a General Meeting whether that person's members
 * every resolution must be minuted;  
 * the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;
 
-20.2 Proxy voting on behalf of an absent member will be allowed at a General Meeting if:
-* the proxy follows the University of Queensland Union regulations; or  
+20.2 Proxy voting on behalf of an absent member will be allowed at a General Meeting if the absent member who proxies their vote would themselves hold voting rights at the General Meeting and:
+* the proxy follows the University of Queensland Union regulations; or
 * the proxy follows a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting.
 
 20.3 No person can hold more than two (2) proxy votes at any General Meeting.
 
-20.4 A person may only participate in a General Meeting if they have been a member of the Society for at least fourteen (14) days at the time of a General Meeting.
+20.4 A person may only hold voting rights and be eligible to participate in a General Meeting if they have been a member of the Society for at least fourteen (14) of the sixty (60) days immediately preceding the General Meeting.
 
 20.5 An Annual General Meeting cannot be closed until all business listed in Clause 16.1 has been transacted.
 
