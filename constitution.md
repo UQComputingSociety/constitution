@@ -40,11 +40,13 @@
 
 4.1 The membership fees shall be such sum as the members shall from time to time at any General Meeting so determine, but shall not be less than two dollars ($2) per member per year. Any change in the membership fee shall take effect in the following year of subscription.
 
-4.2 The membership fees shall be payable upon joining the Society. The payment of the membership subscription means that the member is considered a financial member of the club for the period of twelve (12) months, from the first day of March of the year of subscription.
+4.2 The membership fees shall be payable upon joining the Society.
 
-4.3 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
+4.3 Membership of the Society will be valid until 11:59pm of the final day of February in the calendar year following the payment of membership fees, unless terminated earlier.
 
-4.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:  
+4.4 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
+
+4.5 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:  
 * the payment method is not cash; and
 * the increase is not more than required to ensure the Society receives the full membership fee, plus a rounding increase of not more than twenty percent (20%) of this cost.
 
