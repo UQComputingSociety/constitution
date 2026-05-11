@@ -82,8 +82,9 @@ the management committee shall consider whether the member's membership shall be
 
 7.1 The Management Committee of the Society shall consist of:  
 * a President, Secretary, and Treasurer, all of whom shall be students of the University of Queensland, and all of whom shall be Officers of the Management Committee;  
-* zero (0) or more other Officers of the Management Committee; and  
-* zero (0) or more General Members of the Management Committee.
+* four (4) other Officers of the Management Committee, namely the Media Officer, the Social Officer, the Industry Officer, and the Competitions Officer;  
+* zero (0) or more additional Officers of the Management Committee created under §8.4; and  
+* four (4) Portfolio Members of the Management Committee, namely the Media Portfolio Member, the Social Portfolio Member, the Industry Portfolio Member, and the Competitions Portfolio Member, each tied to the portfolio of the Officer of the same name.
 
 7.2 All the aforestated members of the Management Committee must be members of the Society. Membership of the Management Committee shall not be otherwise restricted.
 
@@ -97,28 +98,31 @@ the management committee shall consider whether the member's membership shall be
 
 8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re-election.
 
-8.2 The Society must elect a President, Secretary, and Treasurer at the Annual General Meeting.
+8.2 The Society must elect a President, Secretary, Treasurer, the four Officers named in §7.1, and the four Portfolio Members named in §7.1 at the Annual General Meeting.
 
-8.3 At the Annual General Meeting of the Society, all Officer positions other than President, Secretary, and Treasurer are dissolved, but may be re-created.
+8.3 At the Annual General Meeting of the Society, all Officer positions other than President and Secretary and Treasurer are dissolved, and the four Officer positions named in §7.1 shall be re-created as a matter of course.
 
-8.4 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more new positions for Officers of the Management Committee.
+8.4 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more additional positions for Officers of the Management Committee beyond those named in §7.1.
 
-8.5 At any General Meeting of the Society, the Members of the Society may resolve to create zero (0) or more new positions for General Members of the Management Committee. Except at the Annual General Meeting, all existing General Members of the Management Committee shall continue to be members of the Management Committee
+8.5 The four Portfolio Member positions enumerated in §7.1 shall be elected at each Annual General Meeting. Except at the Annual General Meeting, all existing Portfolio Members of the Management Committee shall continue to be members of the Management Committee.
 
 8.6 Voting for each position on the Management Committee will take place in series, with the results for each position announced before voting for the next position. The order of voting for positions on the Management Committee shall be:  
 * the President;  
 * the Secretary;  
 * the Treasurer;  
-* any other Officers of the Management Committee, in the order of creation or re-creation;  
-* all General Members of the Management Committee.
+* the Media Officer, the Social Officer, the Industry Officer, and the Competitions Officer, in that order;  
+* any additional Officers of the Management Committee created under §8.4, in the order of creation;  
+* the Media Portfolio Member, the Social Portfolio Member, the Industry Portfolio Member, and the Competitions Portfolio Member, in that order.
 
-8.7 The election of Officers and General Members of the Management Committee at a General Meeting shall take place in the following manner:  
-* any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or General Member of the Management Committee;  
-* the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place;  
-* at the commencement of the General Meeting, any nominations from the floor will be accepted;  
+8.7 The election of Officers and Portfolio Members of the Management Committee at a General Meeting shall take place in the following manner:  
+* any two (2) members of the Society shall be at liberty to nominate any member of the Society to serve as an Officer or Portfolio Member of the Management Committee, provided the candidate is eligible under this section;  
+* the nomination, which shall be in writing, shall be lodged with the Secretary before or at the General Meeting at which the election is to take place, and shall include a written statement outlining the candidate's intended approach to the role; the Secretary may specify length and format requirements for the statement in the notice of the General Meeting, and the statements of all nominations received before the notice is distributed shall be distributed to members of the Society together with the notice under §19;  
+* a candidate for a Portfolio Member position must declare at the time of nomination which portfolio they are nominating for;  
+* a candidate for an elected position on the Management Committee must either have been a member of the Society for at least one (1) preceding semester, or have served as a member of a subcommittee of the Society;  
+* at the commencement of the General Meeting, any nominations from the floor will be accepted, subject to the same eligibility, portfolio declaration, and statement requirements as nominations lodged before the General Meeting, save that statements for floor nominations need not be distributed in advance;  
 * if in any election the number of candidates nominated for a position is fewer than or equal to the number of vacancies for that position, those candidates shall be elected unopposed without putting the matter to a vote;  
 * balloting lists shall be prepared (if necessary) containing the names of candidates in the order their nomination was received;  
-* all Officers shall be determined by optional preferential voting and all General Members shall be determined collectively by optional preferential proportional representation voting;  
+* all Officers shall be determined by optional preferential voting, and each Portfolio Member position shall be determined separately by optional preferential voting among the candidates who declared that portfolio at nomination;  
 * the vote of every member of the Society shall be of equal weight;  
 * all elections must be by secret ballot;  
 * the assembly will select an impartial Returning Officer, who shall be responsible for ensuring the orderly running of the election;  
@@ -128,12 +132,12 @@ the management committee shall consider whether the member's membership shall be
 * in the case of a third tie between the same candidates, the winner shall be determined by sortition; and  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
-8.8 The election of General Members of the Management Committee without a General Meeting shall take place in the following manner:  
-* the Management Committee shall be at liberty to nominate any member of the Society to serve as a General Member of the Management Committee;  
+8.8 The election of a Portfolio Member of the Management Committee without a General Meeting shall take place in the following manner:  
+* the Management Committee shall be at liberty to nominate any eligible member of the Society to serve as a Portfolio Member of the Management Committee, specifying the portfolio for which the nomination is made;  
 * the Management Committee must give every member of the Society an opportunity to vote secretly and securely;  
 * the members of the Society shall have no less than seven (7) days to cast their vote;  
 * the vote of every member of the Society shall be of equal weight;  
-* the nominee will be elected as a General Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
+* the nominee will be elected as a Portfolio Member of the Management Committee if and only if the number of votes of the members of the Society in favour equals or exceeds the number of members of the Society needed to constitute quorum of a General Meeting of the Society and the number of votes of the members of the Society in favour equals or exceeds twice the number of votes of the members of the Society against.  
 * any informality or irregularity with the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the election.
 
 ## 9 Resignation or Removal from Office of Membership of Management Committee
@@ -146,7 +150,13 @@ the management committee shall consider whether the member's membership shall be
 
 9.4 The Secretary may be removed in the same manner as any other member of the Management Committee, with the exception that the time at which they are removed shall instead be the time that the President is made aware of them being improperly elected.
 
-9.5 If a member of the Management Committee:
+9.5 A member of the Management Committee who fails to attend any meeting of the Management Committee for three (3) consecutive calendar months, where at least one (1) quorate meeting of the Management Committee was held in each of those months, shall have their membership of the Management Committee terminated automatically at the end of the third such month.
+
+9.6 A member of the Management Committee may notify the Secretary (or, if the absent member is the Secretary, the President) of an extended absence for medical, exam, or family reasons. The Management Committee may by simple majority grant the member a temporary exemption from the absence count under §9.5 for a specified period.
+
+9.7 The Secretary must write to a member of the Management Committee at risk of automatic termination under §9.5 after their second consecutive missed calendar month, and before the third such month would trigger termination, notifying the member of the risk and of the leave-of-absence provision in §9.6.
+
+9.8 If a member of the Management Committee:
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct;  
@@ -154,9 +164,9 @@ the management committee shall consider whether the member's membership shall be
 
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
 
-9.6 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
+9.9 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
 
-9.7 There is no right of appeal against a member's removal from the Management Committee under this section.
+9.10 There is no right of appeal against a member's removal from the Management Committee under this section.
  
 
 ## 10 Vacancies on Management Committee
@@ -165,7 +175,7 @@ the membership shall consider at a General Meeting whether that person's members
 
 10.2 The continuing members of the Management Committee may act notwithstanding any casual vacancy in the Management Committee, but if their number is reduced below the number fixed as necessary for quorum of the Management Committee, the continuing members may act for the purpose of increasing the number of members of the Management Committee to that number required to achieve quorum or by summoning a General Meeting of the Society, but for no other purpose.
 
-10.3 The resignation or removal of a General Member from the Management Committee does not create a casual vacancy.
+10.3 The resignation or removal of a Portfolio Member from the Management Committee does not create a casual vacancy.
 
 10.4 While there is a vacancy for an Officer of the Management Committee other than the President, then the President shall assume the duties of that Officer.
 
@@ -173,7 +183,7 @@ the membership shall consider at a General Meeting whether that person's members
 * The Secretary;
 * The Treasurer;
 * The other Officer of the Management Committee, whose position was created earliest at or since the most recent Annual General Meeting;
-* The oldest General Member of the Management Committee; or
+* The oldest Portfolio Member of the Management Committee; or
 * The Life Member of the Society, located closest by Euclidean distance to the coordinates 27°30'S, 153°1'E, at the altitude of the Brisbane River datum.
 
 10.6 A member of the Management Committee is entitled to one (1) vote on any questions, matters or resolutions arising at any meeting of the Management Committee, regardless of how many positions they are assuming the duties of.
@@ -199,9 +209,9 @@ the membership shall consider at a General Meeting whether that person's members
 
 12.4 A special meeting of the Management Committee, where notice is not given, shall be convened by the Secretary by a requisition in writing signed by no less than one-third (1/3) of the total members of the Management Committee, and the requisition shall clearly state the purpose of the special meeting and all business to be conducted thereat.
 
-12.5 A meeting of the Management Committee shall be quorate if both half (1/2) or more of the Officers of Management Committee as at the close of the last General Meeting are present, and half (1/2) or more of the total number of all members of the Management Committee are present.
+12.5 A meeting of the Management Committee shall be quorate if both half (1/2) or more of the Officers of the Management Committee other than the President, Secretary, and Treasurer as at the close of the last General Meeting are present, and half (1/2) or more of the total number of all members of the Management Committee are present.
 
-12.6 Questions, matters or resolutions arising at any meeting of the Management Committee shall be decided by a vote, and shall pass with a simple majority.
+12.6 Questions, matters or resolutions arising at any meeting of the Management Committee shall be decided by a vote, and shall pass with a simple majority. The chairperson shall vote on motions as a member of the Management Committee. In the event of an equality of votes, the chairperson shall have a second or casting vote.
 
 12.7 A member of the Management Committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote that member's vote shall not be counted.
 
@@ -226,6 +236,20 @@ the membership shall consider at a General Meeting whether that person's members
 13.7 Between each meeting of a subcommittee, the chairperson must make and deliver to the Secretary a written report of the meeting.
 
 13.8 A subcommittee may resolve to refer a matter to the Management Committee.
+
+13.9 The Society shall have a subcommittee corresponding to each of the four portfolios named in §7.1: Media, Social, Industry, and Competitions. Each such portfolio subcommittee is chaired by the Portfolio Member of that portfolio, who reports to the Officer of the same portfolio.
+
+13.10 Members of a portfolio subcommittee are appointed by majority vote of the President, Secretary, Treasurer, and Officers of the Management Committee, following a written application and interview process. Selection criteria shall be published before applications open. An Officer must declare any close personal relationship with an applicant and recuse themselves from interviews and the appointment vote in respect of that applicant.
+
+13.11 The size of a portfolio subcommittee is not capped. Recruitment to a portfolio subcommittee may occur at any point during the tenure.
+
+13.12 The tenure of a portfolio subcommittee member runs from appointment, typically in December following the Annual General Meeting and the end of teaching, to the following Annual General Meeting. The Management Committee operates without portfolio subcommittees during the interval between an Annual General Meeting and the appointment of the new portfolio subcommittees, being a period of low society activity.
+
+13.13 A subcommittee member may attend meetings of the Management Committee with speaking rights, but does not vote and does not count toward quorum of the Management Committee.
+
+13.14 A subcommittee member may be removed during their tenure by a two-thirds (2/3) supermajority of the President, Secretary, Treasurer, and Officers of the Management Committee, for specified cause including non-attendance, non-performance following documented prior warning, or conduct prejudicial to the Society.
+
+13.15 A subcommittee member who fails to attend two (2) consecutive subcommittee meetings or assigned events without notice shall have their position on the subcommittee terminated automatically. A subcommittee member may notify the Secretary (or, if the absent member is the Secretary, the President) of an extended absence for medical, exam, or family reasons, and the Management Committee may by simple majority grant a temporary exemption from the absence count under this clause for a specified period.
 
 ## 14 Resolutions of Management Committee Without Meeting
 
@@ -279,7 +303,7 @@ the membership shall consider at a General Meeting whether that person's members
 20.1 Unless otherwise provided by these rules, at every General Meeting:  
 * the President (or nominee for the meeting) when the General Meeting commences shall preside as chairperson;  
 * if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;  
-* every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
+* every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority; the chairperson shall vote on motions as a member of the Society, and in the event of an equality of votes, the chairperson shall have a second or casting vote;  
 * every resolution must be minuted;  
 * a draft of the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting; and
 * a draft of the minutes of the General Meeting shall be made available to the Members of the Society within seven (7) days of the General Meeting.
