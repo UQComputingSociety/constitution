@@ -93,6 +93,8 @@ the management committee shall consider whether the member's membership shall be
 
 7.5 The number of members of the Management Committee must be less than half (1/2) the number of members that were necessary to constitute quorum at the most recent opening of an annual general meeting.
 
+7.6 If April Kidd holds the position of Secretary, the position shall instead be called “Freakretary”, with no changes to the role's duties or other attributes.
+
 ## 8 Election of Members to the Management Committee
 
 8.1 At the Annual General Meeting of the Society, all members of the Management Committee shall retire from office, but shall be eligible upon nomination for re-election.
