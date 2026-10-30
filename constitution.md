@@ -40,11 +40,13 @@
 
 4.1 The membership fees shall be such sum as the members shall from time to time at any General Meeting so determine, but shall not be less than two dollars ($2) per member per year. Any change in the membership fee shall take effect in the following year of subscription.
 
-4.2 The membership fees shall be payable upon joining the Society. The payment of the membership subscription means that the member is considered a financial member of the club for the period of twelve (12) months, from the first day of March of the year of subscription.
+4.2 The membership fees shall be payable upon joining the Society.
 
-4.3 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
+4.3 Membership of the Society will be valid until 11:59pm of the final day of February in the calendar year following the payment of membership fees, unless terminated earlier.
 
-4.4 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:  
+4.4 The management committee may reduce the membership fee from fourteen (14) days before the Annual General Meeting until the end of the year, to no less than two dollars ($2) per member, and no less than such sum as the members shall from time to time at any General Meeting so determine.
+
+4.5 The management committee may increase the membership fee for certain payment methods to cover costs associated with that payment method, given:  
 * the payment method is not cash; and
 * the increase is not more than required to ensure the Society receives the full membership fee, plus a rounding increase of not more than twenty percent (20%) of this cost.
 
@@ -144,7 +146,9 @@ the management committee shall consider whether the member's membership shall be
 
 9.4 The Secretary may be removed in the same manner as any other member of the Management Committee, with the exception that the time at which they are removed shall instead be the time that the President is made aware of them being improperly elected.
 
-9.5 If a member of the Management Committee:
+9.5 If a member of the Management Committee fails to attend any meetings of the Management Committee for three (3) consecutive calendar months in which at least one (1) quorate meeting was held in each calendar month, that person's membership of the Management Committee shall be terminated.
+
+9.6 If a member of the Management Committee:
 * fails to comply with any of the provisions of the Constitution;  
 * has membership fees in arrears;  
 * violates the Society's Code of Conduct;  
@@ -152,9 +156,9 @@ the management committee shall consider whether the member's membership shall be
 
 the membership shall consider at a General Meeting whether that person's membership of the Management Committee shall be terminated.
 
-9.6 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting and must be endorsed by the Clubs and Societies committee.
+9.7 That person concerned shall be given a full and fair opportunity to explain matters at the General Meeting. The question of removal shall be determined by a vote of sixty percent (60%) majority of the members present at the General Meeting.
 
-9.7 There is no right of appeal against a member's removal from the Management Committee under this section.
+9.8 The only right of appeal against a member's removal from the Management Committee under this section is via the Clubs and Societies Committee.
 
 ## 10 Vacancies on Management Committee
 
@@ -282,13 +286,14 @@ the membership shall consider at a General Meeting whether that person's members
 * if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, or if the members so resolve, then the members present shall elect a member of the Society to be chairperson of the meeting;  
 * every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
 * every resolution must be minuted;  
-* the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;
+* a draft of the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting; and
+* a draft of the minutes of the General Meeting shall be made available to the Members of the Society within seven (7) days of the General Meeting.
 
 20.2 Proxy voting on behalf of an absent member will be allowed at a General Meeting if the absent member who proxies their vote would themselves hold voting rights at the General Meeting and:
 * the proxy follows the University of Queensland Union regulations; or
 * the proxy follows a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting.
 
-20.3 No person can hold more than two (2) proxy votes at any General Meeting.
+20.3 No person can hold more than one (1) proxy vote at any General Meeting.
 
 20.4 A person may only hold voting rights and be eligible to participate in a General Meeting if they have been a member of the Society for at least fourteen (14) of the sixty (60) days immediately preceding the General Meeting.
 
